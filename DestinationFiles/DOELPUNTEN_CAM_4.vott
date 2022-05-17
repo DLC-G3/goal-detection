@@ -1,0 +1,798 @@
+{
+    "name": "DOELPUNTEN_CAM_4",
+    "sourceConnection": {
+        "name": "LOCAL_SOURCE_IMAGES_DOELPUNTEN_CAM_4_result",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiMDg4OWRmMzNkYzEzNzIyZTQ0ZGM4ODA0MTJhNGM1ZWI3OTk4YjQ3OTI2OTdlNTlmNjNjMDdlODE1YzNmOGYyODY4MmY1MDUyYTUyOTJkYzFlZDAyODM2YjI2NTBjMTA4ZTg0YjU3NjlkMTEzYjVhMDBkZmE1YmVlZjEyNmM2Y2IwYzIwZjU2NDVkNTBlY2YzYzE0YmJlNjE3OThjODFiZTkzNGIxYzdiOWM2NTJhMjUzMmY3NDJhNzk1NzE5OTkyZjQ2NDRjYmZhZDYwZmUxYzJlNTcwMWY1NjhiN2JhNTU4MTcxNWY1OGNjNzU3Y2FmZjI1ZDBlY2Q3MGQ0MjgyNCIsIml2IjoiYWQ4NGJhOGQzNjU0OGVkNzNjNDYxMDhjYTFkYjZjMTdiZDhiZTRiNWM3YzU2MzFjIn0="
+        },
+        "id": "obgBa2kM0"
+    },
+    "targetConnection": {
+        "name": "LOCAL_DESTINATION",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiMTE1OTA5MGVlM2M3YTBiY2IxN2Y3YTlkZmY4MGQ4MzBjMDc0OTI0ZmU0NGRiZmUzYzkwYzQzNWMyZGM1MjYxMjAzODJlYzc5NTI2ZjcwMjhhNjI5ZWM1YzMzN2IxMjA2MDk4NTM0ZDA2YTAzODk1ZDlkZWUyNzg1ZDhmMzQ3MGQzNWM1Y2E3OWY3MTI5ZDI4NmEwYjIyZDgxZWE2OGI1OTQxNTUxYjY1ZDVmNTc1MGNjYmNjMDNmNDQ3NDEwNTNiMDlhMzM0MGUyZmNlNDM5YmMxYTBhOTc4YWM4NjcyYzAiLCJpdiI6ImE5NzRlZjgxNmRhMWUyODBhZmE4YjQyM2I5MDgzOGM4YzJkZDAxNGFkM2M3YmU2MyJ9"
+        },
+        "id": "sTKtszAr0"
+    },
+    "videoSettings": {
+        "frameExtractionRate": 25
+    },
+    "tags": [
+        {
+            "name": "Bal",
+            "color": "#800080"
+        },
+        {
+            "name": "doellijn",
+            "color": "#008000"
+        },
+        {
+            "name": "rest",
+            "color": "#00FFFF"
+        }
+    ],
+    "useSecurityToken": true,
+    "securityToken": "DOELPUNTEN_CAM_4 Token",
+    "id": "R65-gBZcX",
+    "activeLearningSettings": {
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPathType": "coco"
+    },
+    "exportFormat": {
+        "providerType": "vottJson",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiYjQ3MTk0ZmRkZGRiZjlmYTEzNmM1ZDcwNTdlMjA3OTliYzE2MGUzMGQwNDhlNWE0OGIyMTgxNDAwMWMyYmJjZGNmZDdmZWU5MzcyMjUwODk1ZDU0YzgwODllYTRlODcyIiwiaXYiOiI2ODM1MGRmNDY4YWI4YmVlNzBkMTIxZWU1ZjRjMGViNDUwNmFjZGIyNWVjNzk2ZWUifQ=="
+        }
+    },
+    "version": "2.2.0",
+    "lastVisitedAssetId": "b7511e2568e07cab75dd4d1767d5e2cd",
+    "assets": {
+        "04718f162b71975f9a26e5df79364e5a": {
+            "format": "jpg",
+            "id": "04718f162b71975f9a26e5df79364e5a",
+            "name": "frame100.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/frame100.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 1,
+            "type": 1
+        },
+        "b297400aa6bbd62921a88fb38e5c8ec2": {
+            "format": "jpg",
+            "id": "b297400aa6bbd62921a88fb38e5c8ec2",
+            "name": "frame100_edge.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/frame100_edge.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 1,
+            "type": 1
+        },
+        "5726ce84485d6842c95dd555c38947c8": {
+            "format": "jpg",
+            "id": "5726ce84485d6842c95dd555c38947c8",
+            "name": "frame100_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame100_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "63701fae3cb11a6d59c0d714ef38da61": {
+            "format": "jpg",
+            "id": "63701fae3cb11a6d59c0d714ef38da61",
+            "name": "frame101_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame101_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "29bbe5d6aa646fe93372a1ba21b37be6": {
+            "format": "jpg",
+            "id": "29bbe5d6aa646fe93372a1ba21b37be6",
+            "name": "frame102_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame102_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9d05551ef9fd418f1dda55e1e9378b93": {
+            "format": "jpg",
+            "id": "9d05551ef9fd418f1dda55e1e9378b93",
+            "name": "frame103_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame103_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b931e9da2d5cac9acbd6ebfd9ebba931": {
+            "format": "jpg",
+            "id": "b931e9da2d5cac9acbd6ebfd9ebba931",
+            "name": "frame104_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame104_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7e73f80321cc286b12e095114a86a099": {
+            "format": "jpg",
+            "id": "7e73f80321cc286b12e095114a86a099",
+            "name": "frame105_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame105_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d118c74fb1a1a55e6f0b4128278a3e96": {
+            "format": "jpg",
+            "id": "d118c74fb1a1a55e6f0b4128278a3e96",
+            "name": "frame106_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame106_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cb1fd379df361390ae3c530e0041a403": {
+            "format": "jpg",
+            "id": "cb1fd379df361390ae3c530e0041a403",
+            "name": "frame17_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame17_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "31c4e08501668dc313ac7bdb75aded62": {
+            "format": "jpg",
+            "id": "31c4e08501668dc313ac7bdb75aded62",
+            "name": "frame18_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame18_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7de7d6dd21a265c4aa4f3171d8458c72": {
+            "format": "jpg",
+            "id": "7de7d6dd21a265c4aa4f3171d8458c72",
+            "name": "frame19_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame19_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "63cd3d08e29afd2d87c302f70cc5705b": {
+            "format": "jpg",
+            "id": "63cd3d08e29afd2d87c302f70cc5705b",
+            "name": "frame20_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame20_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "57c97ede158178b791d18be19497e1fe": {
+            "format": "jpg",
+            "id": "57c97ede158178b791d18be19497e1fe",
+            "name": "frame21_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame21_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9a5bac7e12adb92276525e10979a2a10": {
+            "format": "jpg",
+            "id": "9a5bac7e12adb92276525e10979a2a10",
+            "name": "frame22_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame22_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3435ea1eab7fea371c284c53d91c503c": {
+            "format": "jpg",
+            "id": "3435ea1eab7fea371c284c53d91c503c",
+            "name": "frame23_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame23_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "28db74efff3736345242265721a28b58": {
+            "format": "jpg",
+            "id": "28db74efff3736345242265721a28b58",
+            "name": "frame24_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame24_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a7f1135fec8cefd15745a5905301acb9": {
+            "format": "jpg",
+            "id": "a7f1135fec8cefd15745a5905301acb9",
+            "name": "frame25_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame25_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "da5ef270a23d8c0b5d5e66ba418bae49": {
+            "format": "jpg",
+            "id": "da5ef270a23d8c0b5d5e66ba418bae49",
+            "name": "frame26_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame26_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6934a91bb415a8ad202da8a8be10f069": {
+            "format": "jpg",
+            "id": "6934a91bb415a8ad202da8a8be10f069",
+            "name": "frame27_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame27_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1a669a2177174df798e93004c828ac37": {
+            "format": "jpg",
+            "id": "1a669a2177174df798e93004c828ac37",
+            "name": "frame28_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame28_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7ec6ee1315b60be4accd7f6617e35460": {
+            "format": "jpg",
+            "id": "7ec6ee1315b60be4accd7f6617e35460",
+            "name": "frame29_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame29_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c1686a6971ad9bd48c7c07207d8c43e3": {
+            "format": "jpg",
+            "id": "c1686a6971ad9bd48c7c07207d8c43e3",
+            "name": "frame30_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame30_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "914e916b432a832f39b5a03d87769225": {
+            "format": "jpg",
+            "id": "914e916b432a832f39b5a03d87769225",
+            "name": "frame31_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame31_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e0ad071b8817ee00fbd4023c38bfbd01": {
+            "format": "jpg",
+            "id": "e0ad071b8817ee00fbd4023c38bfbd01",
+            "name": "frame32_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame32_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c096ad8a6ed843dfd086f817aa4d599d": {
+            "format": "jpg",
+            "id": "c096ad8a6ed843dfd086f817aa4d599d",
+            "name": "frame33_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame33_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "74d727ea1b37783b8c6eea9cbc3eb4e2": {
+            "format": "jpg",
+            "id": "74d727ea1b37783b8c6eea9cbc3eb4e2",
+            "name": "frame34_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame34_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6852bbb489d9bc0a9e1e130cf2a66cdc": {
+            "format": "jpg",
+            "id": "6852bbb489d9bc0a9e1e130cf2a66cdc",
+            "name": "frame35_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame35_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "16ae32aa9fcb4d66574e5dedd3430a50": {
+            "format": "jpg",
+            "id": "16ae32aa9fcb4d66574e5dedd3430a50",
+            "name": "frame36_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame36_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "55822f4b7371cfd423a3b4a68af5fee7": {
+            "format": "jpg",
+            "id": "55822f4b7371cfd423a3b4a68af5fee7",
+            "name": "frame37_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame37_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cce028e0f902efbf94f36995dab3798c": {
+            "format": "jpg",
+            "id": "cce028e0f902efbf94f36995dab3798c",
+            "name": "frame38_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame38_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "afee9f966f2604c2799b318beddafd14": {
+            "format": "jpg",
+            "id": "afee9f966f2604c2799b318beddafd14",
+            "name": "frame39_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame39_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0266f703e4451cc255c66ad98f6886d4": {
+            "format": "jpg",
+            "id": "0266f703e4451cc255c66ad98f6886d4",
+            "name": "frame40_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame40_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "48942e861ced053684da2003bf989293": {
+            "format": "jpg",
+            "id": "48942e861ced053684da2003bf989293",
+            "name": "frame41_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame41_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9c030d68234832966333645732f2e805": {
+            "format": "jpg",
+            "id": "9c030d68234832966333645732f2e805",
+            "name": "frame42_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame42_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3f5e1eec01cfcfd5953aef3c10c106db": {
+            "format": "jpg",
+            "id": "3f5e1eec01cfcfd5953aef3c10c106db",
+            "name": "frame43_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame43_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "52f8f4f374e1a36ebcacf7c68bae88fb": {
+            "format": "jpg",
+            "id": "52f8f4f374e1a36ebcacf7c68bae88fb",
+            "name": "frame44_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame44_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "dc3cd78ef13eca2c44d4747c9d44529e": {
+            "format": "jpg",
+            "id": "dc3cd78ef13eca2c44d4747c9d44529e",
+            "name": "frame45_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame45_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f213df4be955307d385aafaf2a86938a": {
+            "format": "jpg",
+            "id": "f213df4be955307d385aafaf2a86938a",
+            "name": "frame46_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame46_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "24d8db4a53969cd5f90725616e0912b9": {
+            "format": "jpg",
+            "id": "24d8db4a53969cd5f90725616e0912b9",
+            "name": "frame47_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame47_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "66eca71c671c1fdd85353e16d682b146": {
+            "format": "jpg",
+            "id": "66eca71c671c1fdd85353e16d682b146",
+            "name": "frame48_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame48_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "85ae9917f3291d98359a0b4219eee289": {
+            "format": "jpg",
+            "id": "85ae9917f3291d98359a0b4219eee289",
+            "name": "frame49_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame49_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1e9649cf71b29c79d1f869ca05b8f170": {
+            "format": "jpg",
+            "id": "1e9649cf71b29c79d1f869ca05b8f170",
+            "name": "frame50_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame50_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0f42a67a0dc729ee412692ad3a6c7ed3": {
+            "format": "jpg",
+            "id": "0f42a67a0dc729ee412692ad3a6c7ed3",
+            "name": "frame51_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame51_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5e4bf1dc58a6be67cc461c550269b730": {
+            "format": "jpg",
+            "id": "5e4bf1dc58a6be67cc461c550269b730",
+            "name": "frame52_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame52_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "170593aff189e0bf16532c2904db8b88": {
+            "format": "jpg",
+            "id": "170593aff189e0bf16532c2904db8b88",
+            "name": "frame53_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame53_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5d1ce262daab35449ca88215f38b2aaa": {
+            "format": "jpg",
+            "id": "5d1ce262daab35449ca88215f38b2aaa",
+            "name": "frame54_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame54_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "34fd7410b3ca81187cffc327ef89cd39": {
+            "format": "jpg",
+            "id": "34fd7410b3ca81187cffc327ef89cd39",
+            "name": "frame55_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame55_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c69be52235ee44c90c38a057b7e6f395": {
+            "format": "jpg",
+            "id": "c69be52235ee44c90c38a057b7e6f395",
+            "name": "frame56_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame56_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4626898e13cbc396eaa7c5d51fceecd6": {
+            "format": "jpg",
+            "id": "4626898e13cbc396eaa7c5d51fceecd6",
+            "name": "frame57_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame57_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3c497ab88c8cfa131b2ffbfb3beb63c7": {
+            "format": "jpg",
+            "id": "3c497ab88c8cfa131b2ffbfb3beb63c7",
+            "name": "frame58_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame58_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7aac44cabbee065ec8c71b641ea1bb78": {
+            "format": "jpg",
+            "id": "7aac44cabbee065ec8c71b641ea1bb78",
+            "name": "frame59_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame59_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "321c34b9b7e46e220981d283c73fb272": {
+            "format": "jpg",
+            "id": "321c34b9b7e46e220981d283c73fb272",
+            "name": "frame60_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame60_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2b5b1e0f0b558676d9c52b4c07377da1": {
+            "format": "jpg",
+            "id": "2b5b1e0f0b558676d9c52b4c07377da1",
+            "name": "frame61_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame61_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8b6208095516821641bf64a4840ef4de": {
+            "format": "jpg",
+            "id": "8b6208095516821641bf64a4840ef4de",
+            "name": "frame62_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame62_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "006c031df02e945a8c6feb106350d715": {
+            "format": "jpg",
+            "id": "006c031df02e945a8c6feb106350d715",
+            "name": "frame63_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame63_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9e8d78c07d00d0852857a6e24b2e93be": {
+            "format": "jpg",
+            "id": "9e8d78c07d00d0852857a6e24b2e93be",
+            "name": "frame641_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame641_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "500fa5f9d1be5084c9e8dd946cf19fc8": {
+            "format": "jpg",
+            "id": "500fa5f9d1be5084c9e8dd946cf19fc8",
+            "name": "frame642_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame642_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "00755f7b19390aab19885d6e7f0b15f0": {
+            "format": "jpg",
+            "id": "00755f7b19390aab19885d6e7f0b15f0",
+            "name": "frame643_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame643_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6744d5a90cab7e1364ff9d6210b028c3": {
+            "format": "jpg",
+            "id": "6744d5a90cab7e1364ff9d6210b028c3",
+            "name": "frame644_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame644_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "33269d288ed08884f19df35474214066": {
+            "format": "jpg",
+            "id": "33269d288ed08884f19df35474214066",
+            "name": "frame645_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame645_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 1,
+            "type": 1
+        },
+        "b7511e2568e07cab75dd4d1767d5e2cd": {
+            "format": "jpg",
+            "id": "b7511e2568e07cab75dd4d1767d5e2cd",
+            "name": "frame646_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame646_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        }
+    }
+}
