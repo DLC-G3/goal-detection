@@ -1,5 +1,5 @@
 import cv2
-vidcap = cv2.VideoCapture('./SourceFiles/doelpunten_cam4_trim.mp4')
+vidcap = cv2.VideoCapture('./SourceFiles/doelpunten_cam_4.mp4')
 success,image = vidcap.read()
 count = 0
 while success:
