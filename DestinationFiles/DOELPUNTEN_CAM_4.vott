@@ -1,84 +1,64 @@
 {
     "name": "DOELPUNTEN_CAM_4",
     "sourceConnection": {
-        "name": "LOCAL_SOURCE_IMAGES_DOELPUNTEN_CAM_4_result",
+        "name": "LOCAL_IMAGES_CAM_4",
         "providerType": "localFileSystemProxy",
         "providerOptions": {
-            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiMDg4OWRmMzNkYzEzNzIyZTQ0ZGM4ODA0MTJhNGM1ZWI3OTk4YjQ3OTI2OTdlNTlmNjNjMDdlODE1YzNmOGYyODY4MmY1MDUyYTUyOTJkYzFlZDAyODM2YjI2NTBjMTA4ZTg0YjU3NjlkMTEzYjVhMDBkZmE1YmVlZjEyNmM2Y2IwYzIwZjU2NDVkNTBlY2YzYzE0YmJlNjE3OThjODFiZTkzNGIxYzdiOWM2NTJhMjUzMmY3NDJhNzk1NzE5OTkyZjQ2NDRjYmZhZDYwZmUxYzJlNTcwMWY1NjhiN2JhNTU4MTcxNWY1OGNjNzU3Y2FmZjI1ZDBlY2Q3MGQ0MjgyNCIsIml2IjoiYWQ4NGJhOGQzNjU0OGVkNzNjNDYxMDhjYTFkYjZjMTdiZDhiZTRiNWM3YzU2MzFjIn0="
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiYzViNTdmMjUxNWNjOGJlNDQ2MjNiZGNlMjA1NGZkMDQ3OThkYTc2OTkwMThmYjM4MDllYWNiZTVhNmFjNjNjYzU3ZTY5MjFmNWE5MTQzYmVhMGQ1NDhmZjIxOTNhMzE4YmU3YWFlMDI4ZDc2N2RmMGQxM2UzMjI5NTAyNzA0MmJiMDkyMDk5Mjk2ZGJkYzY1NzU4YmMxMmNmYjM3MDMxYWQ0ZjY3M2FkZDE2YmJkYTMyOGI0ODQyOWVlNDk5NGRhYjVlNGJiMGFjMmE0ZmQzNjRiOGRlYzVlZGQzOWU2MTQ1ZDBiNDc0NjkxMWQzYmJjMDgwMTY0NmYxYjhhYTEwOTU2MmRlOGQ0YmVlOGU5NDdhZGZkM2QxNzFhNDJmOTNhIiwiaXYiOiIzMzY1Y2ZkZTVlNWI1NzRhM2Q3N2RmMzJhODZkMjFjMjk5YTkzOGVlMmY1YjEzYWUifQ=="
         },
-        "id": "obgBa2kM0"
+        "id": "BFphwRykT"
     },
     "targetConnection": {
         "name": "LOCAL_DESTINATION",
         "providerType": "localFileSystemProxy",
         "providerOptions": {
-            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiMTE1OTA5MGVlM2M3YTBiY2IxN2Y3YTlkZmY4MGQ4MzBjMDc0OTI0ZmU0NGRiZmUzYzkwYzQzNWMyZGM1MjYxMjAzODJlYzc5NTI2ZjcwMjhhNjI5ZWM1YzMzN2IxMjA2MDk4NTM0ZDA2YTAzODk1ZDlkZWUyNzg1ZDhmMzQ3MGQzNWM1Y2E3OWY3MTI5ZDI4NmEwYjIyZDgxZWE2OGI1OTQxNTUxYjY1ZDVmNTc1MGNjYmNjMDNmNDQ3NDEwNTNiMDlhMzM0MGUyZmNlNDM5YmMxYTBhOTc4YWM4NjcyYzAiLCJpdiI6ImE5NzRlZjgxNmRhMWUyODBhZmE4YjQyM2I5MDgzOGM4YzJkZDAxNGFkM2M3YmU2MyJ9"
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiOWZkNzdkMGRlYWJiODFhMzZiYmUwMmZiZmU1YzY2ZWQ1NjUxOWZlMzYyMjM4ZGRlOTEyYmUyZWJhYzE3N2NmNGM4NDFhOTNiYTI5MTEzZTUwM2I0MzRlOGNhM2VjZDY2NjNjZTViMTc0ZjQ2YjllMDNmMTkxMzBkNTkyMTAzNWY4ZTA1Y2Q0NDMxYTZlMWY1NjU3ODY0M2ZjZWJmNmFkZDM4YWVmMGM1Mjg0ZDg4N2YxMTY2OTNmNDdmN2YzMzEyNGY4N2IxNDEyM2I1ZjU3MDkzZmNjYzJjMzk2ZjU4NTM2YzRjYzVlOWRkYWRlY2Q3ZmRjNjM0NGQzNmI2YTcwMSIsIml2IjoiZDIzZWY1MmY1ZDBhNDJhMDZhNjQwZWJlYjM0OTEyNmU2NmMzMDMyNGEwZWU5YzI4In0="
         },
-        "id": "sTKtszAr0"
+        "id": "TQnWd1QF9"
     },
     "videoSettings": {
         "frameExtractionRate": 25
     },
     "tags": [
         {
+            "name": "Doellijn",
+            "color": "#5db300"
+        },
+        {
             "name": "Bal",
-            "color": "#800080"
+            "color": "#e81123"
         },
         {
-            "name": "doellijn",
-            "color": "#008000"
+            "name": "Andere",
+            "color": "#6917aa"
         },
         {
-            "name": "rest",
-            "color": "#00FFFF"
+            "name": "Goal",
+            "color": "#015cda"
         }
     ],
     "useSecurityToken": true,
     "securityToken": "DOELPUNTEN_CAM_4 Token",
-    "id": "R65-gBZcX",
+    "id": "7KjfM_FWR",
     "activeLearningSettings": {
+        "modelPathType": "coco",
         "autoDetect": false,
-        "predictTag": true,
-        "modelPathType": "coco"
+        "predictTag": false
     },
     "exportFormat": {
-        "providerType": "vottJson",
+        "providerType": "csv",
         "providerOptions": {
-            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiYjQ3MTk0ZmRkZGRiZjlmYTEzNmM1ZDcwNTdlMjA3OTliYzE2MGUzMGQwNDhlNWE0OGIyMTgxNDAwMWMyYmJjZGNmZDdmZWU5MzcyMjUwODk1ZDU0YzgwODllYTRlODcyIiwiaXYiOiI2ODM1MGRmNDY4YWI4YmVlNzBkMTIxZWU1ZjRjMGViNDUwNmFjZGIyNWVjNzk2ZWUifQ=="
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiMDBhZjcyOWJmNWJhMDRkNzk2MjZkMDJmMjdhNmFjZTMyZTY0Nzg3MjJjYWY0NTNmNGRmMThmMzAwNzkzNzU4ZTU5MTMzOTA3MmNmMzlkNmE1MjVjN2U3OTlkNTlkNzE3IiwiaXYiOiI1ZGFkY2U2MTNhMGQyZjI3MmNkOGMxZWY2ZWE2MTc1YjUyYjQ1OTViNTBkOTE1OGEifQ=="
         }
     },
     "version": "2.2.0",
-    "lastVisitedAssetId": "b7511e2568e07cab75dd4d1767d5e2cd",
+    "lastVisitedAssetId": "392c4a79a4e26c6370adc1c3f4981dc0",
     "assets": {
-        "04718f162b71975f9a26e5df79364e5a": {
+        "392c4a79a4e26c6370adc1c3f4981dc0": {
             "format": "jpg",
-            "id": "04718f162b71975f9a26e5df79364e5a",
-            "name": "frame100.jpg",
-            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/frame100.jpg",
-            "size": {
-                "width": 1920,
-                "height": 1080
-            },
-            "state": 1,
-            "type": 1
-        },
-        "b297400aa6bbd62921a88fb38e5c8ec2": {
-            "format": "jpg",
-            "id": "b297400aa6bbd62921a88fb38e5c8ec2",
-            "name": "frame100_edge.jpg",
-            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/frame100_edge.jpg",
-            "size": {
-                "width": 1920,
-                "height": 1080
-            },
-            "state": 1,
-            "type": 1
-        },
-        "5726ce84485d6842c95dd555c38947c8": {
-            "format": "jpg",
-            "id": "5726ce84485d6842c95dd555c38947c8",
-            "name": "frame100_canny.jpg",
-            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame100_canny.jpg",
+            "id": "392c4a79a4e26c6370adc1c3f4981dc0",
+            "name": "frame166.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame166.jpg",
             "size": {
                 "width": 1920,
                 "height": 1080
@@ -86,11 +66,11 @@
             "state": 2,
             "type": 1
         },
-        "63701fae3cb11a6d59c0d714ef38da61": {
+        "1648acfac44f4edf0fcc6ea6ff5ec31e": {
             "format": "jpg",
-            "id": "63701fae3cb11a6d59c0d714ef38da61",
-            "name": "frame101_canny.jpg",
-            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame101_canny.jpg",
+            "id": "1648acfac44f4edf0fcc6ea6ff5ec31e",
+            "name": "frame167.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame167.jpg",
             "size": {
                 "width": 1920,
                 "height": 1080
@@ -98,11 +78,11 @@
             "state": 2,
             "type": 1
         },
-        "29bbe5d6aa646fe93372a1ba21b37be6": {
+        "c1125c51c45fe0b9db383c843d2e0329": {
             "format": "jpg",
-            "id": "29bbe5d6aa646fe93372a1ba21b37be6",
-            "name": "frame102_canny.jpg",
-            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame102_canny.jpg",
+            "id": "c1125c51c45fe0b9db383c843d2e0329",
+            "name": "frame168.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame168.jpg",
             "size": {
                 "width": 1920,
                 "height": 1080
@@ -110,11 +90,11 @@
             "state": 2,
             "type": 1
         },
-        "9d05551ef9fd418f1dda55e1e9378b93": {
+        "aac8f085ef7ebaca2cb9e83f22aa33cf": {
             "format": "jpg",
-            "id": "9d05551ef9fd418f1dda55e1e9378b93",
-            "name": "frame103_canny.jpg",
-            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame103_canny.jpg",
+            "id": "aac8f085ef7ebaca2cb9e83f22aa33cf",
+            "name": "frame169.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame169.jpg",
             "size": {
                 "width": 1920,
                 "height": 1080
@@ -122,11 +102,11 @@
             "state": 2,
             "type": 1
         },
-        "b931e9da2d5cac9acbd6ebfd9ebba931": {
+        "7429b68d2bf0c8a6b66ef9c273a1d111": {
             "format": "jpg",
-            "id": "b931e9da2d5cac9acbd6ebfd9ebba931",
-            "name": "frame104_canny.jpg",
-            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame104_canny.jpg",
+            "id": "7429b68d2bf0c8a6b66ef9c273a1d111",
+            "name": "frame170.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame170.jpg",
             "size": {
                 "width": 1920,
                 "height": 1080
@@ -134,11 +114,11 @@
             "state": 2,
             "type": 1
         },
-        "7e73f80321cc286b12e095114a86a099": {
+        "a638601e03619d139a628155ae4d97fc": {
             "format": "jpg",
-            "id": "7e73f80321cc286b12e095114a86a099",
-            "name": "frame105_canny.jpg",
-            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame105_canny.jpg",
+            "id": "a638601e03619d139a628155ae4d97fc",
+            "name": "frame171.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame171.jpg",
             "size": {
                 "width": 1920,
                 "height": 1080
@@ -146,11 +126,11 @@
             "state": 2,
             "type": 1
         },
-        "d118c74fb1a1a55e6f0b4128278a3e96": {
+        "2bac5802aa6d2864863d7e8e7fdee1c1": {
             "format": "jpg",
-            "id": "d118c74fb1a1a55e6f0b4128278a3e96",
-            "name": "frame106_canny.jpg",
-            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame106_canny.jpg",
+            "id": "2bac5802aa6d2864863d7e8e7fdee1c1",
+            "name": "frame172.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame172.jpg",
             "size": {
                 "width": 1920,
                 "height": 1080
@@ -158,11 +138,11 @@
             "state": 2,
             "type": 1
         },
-        "cb1fd379df361390ae3c530e0041a403": {
+        "a308e63d39984435ea3d886c4039d894": {
             "format": "jpg",
-            "id": "cb1fd379df361390ae3c530e0041a403",
-            "name": "frame17_canny.jpg",
-            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame17_canny.jpg",
+            "id": "a308e63d39984435ea3d886c4039d894",
+            "name": "frame173.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame173.jpg",
             "size": {
                 "width": 1920,
                 "height": 1080
@@ -170,11 +150,11 @@
             "state": 2,
             "type": 1
         },
-        "31c4e08501668dc313ac7bdb75aded62": {
+        "1cc7326e549473f0f0c8735e688af9a8": {
             "format": "jpg",
-            "id": "31c4e08501668dc313ac7bdb75aded62",
-            "name": "frame18_canny.jpg",
-            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame18_canny.jpg",
+            "id": "1cc7326e549473f0f0c8735e688af9a8",
+            "name": "frame174.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame174.jpg",
             "size": {
                 "width": 1920,
                 "height": 1080
@@ -182,11 +162,11 @@
             "state": 2,
             "type": 1
         },
-        "7de7d6dd21a265c4aa4f3171d8458c72": {
+        "a985fdb22de45db2ae0d20e2c92c7c45": {
             "format": "jpg",
-            "id": "7de7d6dd21a265c4aa4f3171d8458c72",
-            "name": "frame19_canny.jpg",
-            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame19_canny.jpg",
+            "id": "a985fdb22de45db2ae0d20e2c92c7c45",
+            "name": "frame175.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame175.jpg",
             "size": {
                 "width": 1920,
                 "height": 1080
@@ -194,11 +174,11 @@
             "state": 2,
             "type": 1
         },
-        "63cd3d08e29afd2d87c302f70cc5705b": {
+        "13a31970f1d842aec5cdb7ad59db987b": {
             "format": "jpg",
-            "id": "63cd3d08e29afd2d87c302f70cc5705b",
-            "name": "frame20_canny.jpg",
-            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame20_canny.jpg",
+            "id": "13a31970f1d842aec5cdb7ad59db987b",
+            "name": "frame176.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame176.jpg",
             "size": {
                 "width": 1920,
                 "height": 1080
@@ -206,11 +186,11 @@
             "state": 2,
             "type": 1
         },
-        "57c97ede158178b791d18be19497e1fe": {
+        "28efb85a4b3e6367ab00456d85bd61a0": {
             "format": "jpg",
-            "id": "57c97ede158178b791d18be19497e1fe",
-            "name": "frame21_canny.jpg",
-            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame21_canny.jpg",
+            "id": "28efb85a4b3e6367ab00456d85bd61a0",
+            "name": "frame177.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame177.jpg",
             "size": {
                 "width": 1920,
                 "height": 1080
@@ -218,11 +198,11 @@
             "state": 2,
             "type": 1
         },
-        "9a5bac7e12adb92276525e10979a2a10": {
+        "ec9859caa53ae3d1f1d3cd2da98afb16": {
             "format": "jpg",
-            "id": "9a5bac7e12adb92276525e10979a2a10",
-            "name": "frame22_canny.jpg",
-            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame22_canny.jpg",
+            "id": "ec9859caa53ae3d1f1d3cd2da98afb16",
+            "name": "frame178.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame178.jpg",
             "size": {
                 "width": 1920,
                 "height": 1080
@@ -230,11 +210,11 @@
             "state": 2,
             "type": 1
         },
-        "3435ea1eab7fea371c284c53d91c503c": {
+        "cbf3d7741e8b43908e9bfe1742dff54e": {
             "format": "jpg",
-            "id": "3435ea1eab7fea371c284c53d91c503c",
-            "name": "frame23_canny.jpg",
-            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame23_canny.jpg",
+            "id": "cbf3d7741e8b43908e9bfe1742dff54e",
+            "name": "frame179.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame179.jpg",
             "size": {
                 "width": 1920,
                 "height": 1080
@@ -242,11 +222,11 @@
             "state": 2,
             "type": 1
         },
-        "28db74efff3736345242265721a28b58": {
+        "cd153525c49d224a4d100adba31c546b": {
             "format": "jpg",
-            "id": "28db74efff3736345242265721a28b58",
-            "name": "frame24_canny.jpg",
-            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame24_canny.jpg",
+            "id": "cd153525c49d224a4d100adba31c546b",
+            "name": "frame180.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame180.jpg",
             "size": {
                 "width": 1920,
                 "height": 1080
@@ -254,11 +234,11 @@
             "state": 2,
             "type": 1
         },
-        "a7f1135fec8cefd15745a5905301acb9": {
+        "57a15e10ec875ec0b52febc8b68f0596": {
             "format": "jpg",
-            "id": "a7f1135fec8cefd15745a5905301acb9",
-            "name": "frame25_canny.jpg",
-            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame25_canny.jpg",
+            "id": "57a15e10ec875ec0b52febc8b68f0596",
+            "name": "frame181.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame181.jpg",
             "size": {
                 "width": 1920,
                 "height": 1080
@@ -266,11 +246,11 @@
             "state": 2,
             "type": 1
         },
-        "da5ef270a23d8c0b5d5e66ba418bae49": {
+        "c1521be0efde5a4744e4a2cd8d38fd9e": {
             "format": "jpg",
-            "id": "da5ef270a23d8c0b5d5e66ba418bae49",
-            "name": "frame26_canny.jpg",
-            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame26_canny.jpg",
+            "id": "c1521be0efde5a4744e4a2cd8d38fd9e",
+            "name": "frame182.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame182.jpg",
             "size": {
                 "width": 1920,
                 "height": 1080
@@ -278,11 +258,11 @@
             "state": 2,
             "type": 1
         },
-        "6934a91bb415a8ad202da8a8be10f069": {
+        "05729c982b768064c9c93ec5bff14643": {
             "format": "jpg",
-            "id": "6934a91bb415a8ad202da8a8be10f069",
-            "name": "frame27_canny.jpg",
-            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame27_canny.jpg",
+            "id": "05729c982b768064c9c93ec5bff14643",
+            "name": "frame183.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame183.jpg",
             "size": {
                 "width": 1920,
                 "height": 1080
@@ -290,11 +270,11 @@
             "state": 2,
             "type": 1
         },
-        "1a669a2177174df798e93004c828ac37": {
+        "dc7281b76c0dc8463fa1946bb76bc020": {
             "format": "jpg",
-            "id": "1a669a2177174df798e93004c828ac37",
-            "name": "frame28_canny.jpg",
-            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame28_canny.jpg",
+            "id": "dc7281b76c0dc8463fa1946bb76bc020",
+            "name": "frame184.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame184.jpg",
             "size": {
                 "width": 1920,
                 "height": 1080
@@ -302,11 +282,11 @@
             "state": 2,
             "type": 1
         },
-        "7ec6ee1315b60be4accd7f6617e35460": {
+        "9b6118296bec225b4782be989f955c76": {
             "format": "jpg",
-            "id": "7ec6ee1315b60be4accd7f6617e35460",
-            "name": "frame29_canny.jpg",
-            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame29_canny.jpg",
+            "id": "9b6118296bec225b4782be989f955c76",
+            "name": "frame185.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame185.jpg",
             "size": {
                 "width": 1920,
                 "height": 1080
@@ -314,11 +294,11 @@
             "state": 2,
             "type": 1
         },
-        "c1686a6971ad9bd48c7c07207d8c43e3": {
+        "b88ee65692f002bf1d4ec4b4915f65ee": {
             "format": "jpg",
-            "id": "c1686a6971ad9bd48c7c07207d8c43e3",
-            "name": "frame30_canny.jpg",
-            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame30_canny.jpg",
+            "id": "b88ee65692f002bf1d4ec4b4915f65ee",
+            "name": "frame186.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame186.jpg",
             "size": {
                 "width": 1920,
                 "height": 1080
@@ -326,11 +306,11 @@
             "state": 2,
             "type": 1
         },
-        "914e916b432a832f39b5a03d87769225": {
+        "843ffaa4ed904d5f9c8d6af60e0bd0db": {
             "format": "jpg",
-            "id": "914e916b432a832f39b5a03d87769225",
-            "name": "frame31_canny.jpg",
-            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame31_canny.jpg",
+            "id": "843ffaa4ed904d5f9c8d6af60e0bd0db",
+            "name": "frame187.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame187.jpg",
             "size": {
                 "width": 1920,
                 "height": 1080
@@ -338,11 +318,11 @@
             "state": 2,
             "type": 1
         },
-        "e0ad071b8817ee00fbd4023c38bfbd01": {
+        "068599649564f3e5f819a4e1e6ad8956": {
             "format": "jpg",
-            "id": "e0ad071b8817ee00fbd4023c38bfbd01",
-            "name": "frame32_canny.jpg",
-            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame32_canny.jpg",
+            "id": "068599649564f3e5f819a4e1e6ad8956",
+            "name": "frame188.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame188.jpg",
             "size": {
                 "width": 1920,
                 "height": 1080
@@ -350,11 +330,11 @@
             "state": 2,
             "type": 1
         },
-        "c096ad8a6ed843dfd086f817aa4d599d": {
+        "545454ddc6ad5aebb0eb86d2ee53248e": {
             "format": "jpg",
-            "id": "c096ad8a6ed843dfd086f817aa4d599d",
-            "name": "frame33_canny.jpg",
-            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame33_canny.jpg",
+            "id": "545454ddc6ad5aebb0eb86d2ee53248e",
+            "name": "frame189.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame189.jpg",
             "size": {
                 "width": 1920,
                 "height": 1080
@@ -362,11 +342,11 @@
             "state": 2,
             "type": 1
         },
-        "74d727ea1b37783b8c6eea9cbc3eb4e2": {
+        "edf8d7b5f44b5426e0ba5e7a036b0287": {
             "format": "jpg",
-            "id": "74d727ea1b37783b8c6eea9cbc3eb4e2",
-            "name": "frame34_canny.jpg",
-            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame34_canny.jpg",
+            "id": "edf8d7b5f44b5426e0ba5e7a036b0287",
+            "name": "frame190.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame190.jpg",
             "size": {
                 "width": 1920,
                 "height": 1080
@@ -374,11 +354,11 @@
             "state": 2,
             "type": 1
         },
-        "6852bbb489d9bc0a9e1e130cf2a66cdc": {
+        "a1492076683d860d4bc8c5e40645aadb": {
             "format": "jpg",
-            "id": "6852bbb489d9bc0a9e1e130cf2a66cdc",
-            "name": "frame35_canny.jpg",
-            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame35_canny.jpg",
+            "id": "a1492076683d860d4bc8c5e40645aadb",
+            "name": "frame191.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame191.jpg",
             "size": {
                 "width": 1920,
                 "height": 1080
@@ -386,11 +366,11 @@
             "state": 2,
             "type": 1
         },
-        "16ae32aa9fcb4d66574e5dedd3430a50": {
+        "673b48963cc93c8767dc791b92120274": {
             "format": "jpg",
-            "id": "16ae32aa9fcb4d66574e5dedd3430a50",
-            "name": "frame36_canny.jpg",
-            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame36_canny.jpg",
+            "id": "673b48963cc93c8767dc791b92120274",
+            "name": "frame192.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame192.jpg",
             "size": {
                 "width": 1920,
                 "height": 1080
@@ -398,11 +378,11 @@
             "state": 2,
             "type": 1
         },
-        "55822f4b7371cfd423a3b4a68af5fee7": {
+        "b356995124ef047b8fd4e6ad63dd2a04": {
             "format": "jpg",
-            "id": "55822f4b7371cfd423a3b4a68af5fee7",
-            "name": "frame37_canny.jpg",
-            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame37_canny.jpg",
+            "id": "b356995124ef047b8fd4e6ad63dd2a04",
+            "name": "frame193.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame193.jpg",
             "size": {
                 "width": 1920,
                 "height": 1080
@@ -410,11 +390,11 @@
             "state": 2,
             "type": 1
         },
-        "cce028e0f902efbf94f36995dab3798c": {
+        "bd42dde3d7a00d97a17117728e5a58a9": {
             "format": "jpg",
-            "id": "cce028e0f902efbf94f36995dab3798c",
-            "name": "frame38_canny.jpg",
-            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame38_canny.jpg",
+            "id": "bd42dde3d7a00d97a17117728e5a58a9",
+            "name": "frame194.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame194.jpg",
             "size": {
                 "width": 1920,
                 "height": 1080
@@ -422,11 +402,11 @@
             "state": 2,
             "type": 1
         },
-        "afee9f966f2604c2799b318beddafd14": {
+        "5305924e47f5a119728e9d05e3489d8a": {
             "format": "jpg",
-            "id": "afee9f966f2604c2799b318beddafd14",
-            "name": "frame39_canny.jpg",
-            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame39_canny.jpg",
+            "id": "5305924e47f5a119728e9d05e3489d8a",
+            "name": "frame195.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame195.jpg",
             "size": {
                 "width": 1920,
                 "height": 1080
@@ -434,11 +414,11 @@
             "state": 2,
             "type": 1
         },
-        "0266f703e4451cc255c66ad98f6886d4": {
+        "e27ee50343c03ed1c2465e69804c581d": {
             "format": "jpg",
-            "id": "0266f703e4451cc255c66ad98f6886d4",
-            "name": "frame40_canny.jpg",
-            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame40_canny.jpg",
+            "id": "e27ee50343c03ed1c2465e69804c581d",
+            "name": "frame196.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame196.jpg",
             "size": {
                 "width": 1920,
                 "height": 1080
@@ -446,11 +426,11 @@
             "state": 2,
             "type": 1
         },
-        "48942e861ced053684da2003bf989293": {
+        "34003737b233008988870d2cf355ccca": {
             "format": "jpg",
-            "id": "48942e861ced053684da2003bf989293",
-            "name": "frame41_canny.jpg",
-            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame41_canny.jpg",
+            "id": "34003737b233008988870d2cf355ccca",
+            "name": "frame197.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame197.jpg",
             "size": {
                 "width": 1920,
                 "height": 1080
@@ -458,11 +438,11 @@
             "state": 2,
             "type": 1
         },
-        "9c030d68234832966333645732f2e805": {
+        "9cfba1687ae1ea919f3988ced4e315c2": {
             "format": "jpg",
-            "id": "9c030d68234832966333645732f2e805",
-            "name": "frame42_canny.jpg",
-            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame42_canny.jpg",
+            "id": "9cfba1687ae1ea919f3988ced4e315c2",
+            "name": "frame198.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame198.jpg",
             "size": {
                 "width": 1920,
                 "height": 1080
@@ -470,11 +450,11 @@
             "state": 2,
             "type": 1
         },
-        "3f5e1eec01cfcfd5953aef3c10c106db": {
+        "1e02b77443fbbcbbdd6c8aef49640961": {
             "format": "jpg",
-            "id": "3f5e1eec01cfcfd5953aef3c10c106db",
-            "name": "frame43_canny.jpg",
-            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame43_canny.jpg",
+            "id": "1e02b77443fbbcbbdd6c8aef49640961",
+            "name": "frame199.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame199.jpg",
             "size": {
                 "width": 1920,
                 "height": 1080
@@ -482,11 +462,11 @@
             "state": 2,
             "type": 1
         },
-        "52f8f4f374e1a36ebcacf7c68bae88fb": {
+        "48635133bdf49340facb5a51634012b4": {
             "format": "jpg",
-            "id": "52f8f4f374e1a36ebcacf7c68bae88fb",
-            "name": "frame44_canny.jpg",
-            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame44_canny.jpg",
+            "id": "48635133bdf49340facb5a51634012b4",
+            "name": "frame200.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame200.jpg",
             "size": {
                 "width": 1920,
                 "height": 1080
@@ -494,11 +474,11 @@
             "state": 2,
             "type": 1
         },
-        "dc3cd78ef13eca2c44d4747c9d44529e": {
+        "e3dd12ec29c02daa7dc2ddd7b9c8a898": {
             "format": "jpg",
-            "id": "dc3cd78ef13eca2c44d4747c9d44529e",
-            "name": "frame45_canny.jpg",
-            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame45_canny.jpg",
+            "id": "e3dd12ec29c02daa7dc2ddd7b9c8a898",
+            "name": "frame201.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame201.jpg",
             "size": {
                 "width": 1920,
                 "height": 1080
@@ -506,11 +486,11 @@
             "state": 2,
             "type": 1
         },
-        "f213df4be955307d385aafaf2a86938a": {
+        "2661b3daaff7055e613e52ed78c860a0": {
             "format": "jpg",
-            "id": "f213df4be955307d385aafaf2a86938a",
-            "name": "frame46_canny.jpg",
-            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame46_canny.jpg",
+            "id": "2661b3daaff7055e613e52ed78c860a0",
+            "name": "frame202.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame202.jpg",
             "size": {
                 "width": 1920,
                 "height": 1080
@@ -518,11 +498,11 @@
             "state": 2,
             "type": 1
         },
-        "24d8db4a53969cd5f90725616e0912b9": {
+        "35bfbed2a0ca945a80fdcb2e7dd1bfec": {
             "format": "jpg",
-            "id": "24d8db4a53969cd5f90725616e0912b9",
-            "name": "frame47_canny.jpg",
-            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame47_canny.jpg",
+            "id": "35bfbed2a0ca945a80fdcb2e7dd1bfec",
+            "name": "frame203.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame203.jpg",
             "size": {
                 "width": 1920,
                 "height": 1080
@@ -530,11 +510,11 @@
             "state": 2,
             "type": 1
         },
-        "66eca71c671c1fdd85353e16d682b146": {
+        "0bf00e593097512b274973ce97a1399a": {
             "format": "jpg",
-            "id": "66eca71c671c1fdd85353e16d682b146",
-            "name": "frame48_canny.jpg",
-            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame48_canny.jpg",
+            "id": "0bf00e593097512b274973ce97a1399a",
+            "name": "frame204.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame204.jpg",
             "size": {
                 "width": 1920,
                 "height": 1080
@@ -542,11 +522,11 @@
             "state": 2,
             "type": 1
         },
-        "85ae9917f3291d98359a0b4219eee289": {
+        "72a62611467f3b7e6fd65a3cd535311d": {
             "format": "jpg",
-            "id": "85ae9917f3291d98359a0b4219eee289",
-            "name": "frame49_canny.jpg",
-            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame49_canny.jpg",
+            "id": "72a62611467f3b7e6fd65a3cd535311d",
+            "name": "frame205.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame205.jpg",
             "size": {
                 "width": 1920,
                 "height": 1080
@@ -554,11 +534,11 @@
             "state": 2,
             "type": 1
         },
-        "1e9649cf71b29c79d1f869ca05b8f170": {
+        "7dcfc2200eb5438c0bef8729a863b589": {
             "format": "jpg",
-            "id": "1e9649cf71b29c79d1f869ca05b8f170",
-            "name": "frame50_canny.jpg",
-            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame50_canny.jpg",
+            "id": "7dcfc2200eb5438c0bef8729a863b589",
+            "name": "frame206.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame206.jpg",
             "size": {
                 "width": 1920,
                 "height": 1080
@@ -566,11 +546,11 @@
             "state": 2,
             "type": 1
         },
-        "0f42a67a0dc729ee412692ad3a6c7ed3": {
+        "0c333e31978722e8c52eebb2838cf809": {
             "format": "jpg",
-            "id": "0f42a67a0dc729ee412692ad3a6c7ed3",
-            "name": "frame51_canny.jpg",
-            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame51_canny.jpg",
+            "id": "0c333e31978722e8c52eebb2838cf809",
+            "name": "frame207.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame207.jpg",
             "size": {
                 "width": 1920,
                 "height": 1080
@@ -578,11 +558,11 @@
             "state": 2,
             "type": 1
         },
-        "5e4bf1dc58a6be67cc461c550269b730": {
+        "1da3edc2d1b68b73e58793d825a83de2": {
             "format": "jpg",
-            "id": "5e4bf1dc58a6be67cc461c550269b730",
-            "name": "frame52_canny.jpg",
-            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame52_canny.jpg",
+            "id": "1da3edc2d1b68b73e58793d825a83de2",
+            "name": "frame208.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame208.jpg",
             "size": {
                 "width": 1920,
                 "height": 1080
@@ -590,11 +570,11 @@
             "state": 2,
             "type": 1
         },
-        "170593aff189e0bf16532c2904db8b88": {
+        "5581ab6bd26baab8ad297e8a7f5856e6": {
             "format": "jpg",
-            "id": "170593aff189e0bf16532c2904db8b88",
-            "name": "frame53_canny.jpg",
-            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame53_canny.jpg",
+            "id": "5581ab6bd26baab8ad297e8a7f5856e6",
+            "name": "frame209.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame209.jpg",
             "size": {
                 "width": 1920,
                 "height": 1080
@@ -602,11 +582,11 @@
             "state": 2,
             "type": 1
         },
-        "5d1ce262daab35449ca88215f38b2aaa": {
+        "0e3fc6f95305e7776e7e7892d92864bd": {
             "format": "jpg",
-            "id": "5d1ce262daab35449ca88215f38b2aaa",
-            "name": "frame54_canny.jpg",
-            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame54_canny.jpg",
+            "id": "0e3fc6f95305e7776e7e7892d92864bd",
+            "name": "frame210.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame210.jpg",
             "size": {
                 "width": 1920,
                 "height": 1080
@@ -614,11 +594,11 @@
             "state": 2,
             "type": 1
         },
-        "34fd7410b3ca81187cffc327ef89cd39": {
+        "17aa22823387c3eefcd488de0ecad65a": {
             "format": "jpg",
-            "id": "34fd7410b3ca81187cffc327ef89cd39",
-            "name": "frame55_canny.jpg",
-            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame55_canny.jpg",
+            "id": "17aa22823387c3eefcd488de0ecad65a",
+            "name": "frame211.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame211.jpg",
             "size": {
                 "width": 1920,
                 "height": 1080
@@ -626,11 +606,11 @@
             "state": 2,
             "type": 1
         },
-        "c69be52235ee44c90c38a057b7e6f395": {
+        "26a99d4c786a601af279a161d48f7d8c": {
             "format": "jpg",
-            "id": "c69be52235ee44c90c38a057b7e6f395",
-            "name": "frame56_canny.jpg",
-            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame56_canny.jpg",
+            "id": "26a99d4c786a601af279a161d48f7d8c",
+            "name": "frame212.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame212.jpg",
             "size": {
                 "width": 1920,
                 "height": 1080
@@ -638,11 +618,11 @@
             "state": 2,
             "type": 1
         },
-        "4626898e13cbc396eaa7c5d51fceecd6": {
+        "3df75aa736f020adf78ed68f4e3fc1a6": {
             "format": "jpg",
-            "id": "4626898e13cbc396eaa7c5d51fceecd6",
-            "name": "frame57_canny.jpg",
-            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame57_canny.jpg",
+            "id": "3df75aa736f020adf78ed68f4e3fc1a6",
+            "name": "frame213.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame213.jpg",
             "size": {
                 "width": 1920,
                 "height": 1080
@@ -650,11 +630,11 @@
             "state": 2,
             "type": 1
         },
-        "3c497ab88c8cfa131b2ffbfb3beb63c7": {
+        "52f8ae8d63147b7afb9ac87ed3f3689b": {
             "format": "jpg",
-            "id": "3c497ab88c8cfa131b2ffbfb3beb63c7",
-            "name": "frame58_canny.jpg",
-            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame58_canny.jpg",
+            "id": "52f8ae8d63147b7afb9ac87ed3f3689b",
+            "name": "frame214.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame214.jpg",
             "size": {
                 "width": 1920,
                 "height": 1080
@@ -662,11 +642,11 @@
             "state": 2,
             "type": 1
         },
-        "7aac44cabbee065ec8c71b641ea1bb78": {
+        "4b0f53180b569d25153a3998ea88eb48": {
             "format": "jpg",
-            "id": "7aac44cabbee065ec8c71b641ea1bb78",
-            "name": "frame59_canny.jpg",
-            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame59_canny.jpg",
+            "id": "4b0f53180b569d25153a3998ea88eb48",
+            "name": "frame215.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame215.jpg",
             "size": {
                 "width": 1920,
                 "height": 1080
@@ -674,11 +654,11 @@
             "state": 2,
             "type": 1
         },
-        "321c34b9b7e46e220981d283c73fb272": {
+        "824739dfccf61cc6bb16a78d1c546894": {
             "format": "jpg",
-            "id": "321c34b9b7e46e220981d283c73fb272",
-            "name": "frame60_canny.jpg",
-            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame60_canny.jpg",
+            "id": "824739dfccf61cc6bb16a78d1c546894",
+            "name": "frame216.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame216.jpg",
             "size": {
                 "width": 1920,
                 "height": 1080
@@ -686,11 +666,11 @@
             "state": 2,
             "type": 1
         },
-        "2b5b1e0f0b558676d9c52b4c07377da1": {
+        "11c9d2911511495877008b32f31d4c5f": {
             "format": "jpg",
-            "id": "2b5b1e0f0b558676d9c52b4c07377da1",
-            "name": "frame61_canny.jpg",
-            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame61_canny.jpg",
+            "id": "11c9d2911511495877008b32f31d4c5f",
+            "name": "frame217.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame217.jpg",
             "size": {
                 "width": 1920,
                 "height": 1080
@@ -698,11 +678,11 @@
             "state": 2,
             "type": 1
         },
-        "8b6208095516821641bf64a4840ef4de": {
+        "becda621f4c802333804091822e02e04": {
             "format": "jpg",
-            "id": "8b6208095516821641bf64a4840ef4de",
-            "name": "frame62_canny.jpg",
-            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame62_canny.jpg",
+            "id": "becda621f4c802333804091822e02e04",
+            "name": "frame218.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame218.jpg",
             "size": {
                 "width": 1920,
                 "height": 1080
@@ -710,11 +690,11 @@
             "state": 2,
             "type": 1
         },
-        "006c031df02e945a8c6feb106350d715": {
+        "149e1a18c2db68099a7bb8150c107643": {
             "format": "jpg",
-            "id": "006c031df02e945a8c6feb106350d715",
-            "name": "frame63_canny.jpg",
-            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame63_canny.jpg",
+            "id": "149e1a18c2db68099a7bb8150c107643",
+            "name": "frame219.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame219.jpg",
             "size": {
                 "width": 1920,
                 "height": 1080
@@ -722,11 +702,11 @@
             "state": 2,
             "type": 1
         },
-        "9e8d78c07d00d0852857a6e24b2e93be": {
+        "a320ada3b67a5c73edb6e7826ddc5cd5": {
             "format": "jpg",
-            "id": "9e8d78c07d00d0852857a6e24b2e93be",
-            "name": "frame641_canny.jpg",
-            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame641_canny.jpg",
+            "id": "a320ada3b67a5c73edb6e7826ddc5cd5",
+            "name": "frame220.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame220.jpg",
             "size": {
                 "width": 1920,
                 "height": 1080
@@ -734,11 +714,11 @@
             "state": 2,
             "type": 1
         },
-        "500fa5f9d1be5084c9e8dd946cf19fc8": {
+        "7b86ae13b2b5b1d2df2b1099c2d268de": {
             "format": "jpg",
-            "id": "500fa5f9d1be5084c9e8dd946cf19fc8",
-            "name": "frame642_canny.jpg",
-            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame642_canny.jpg",
+            "id": "7b86ae13b2b5b1d2df2b1099c2d268de",
+            "name": "frame221.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame221.jpg",
             "size": {
                 "width": 1920,
                 "height": 1080
@@ -746,11 +726,11 @@
             "state": 2,
             "type": 1
         },
-        "00755f7b19390aab19885d6e7f0b15f0": {
+        "de43276a9f07e54156b47d6b1fe46c4d": {
             "format": "jpg",
-            "id": "00755f7b19390aab19885d6e7f0b15f0",
-            "name": "frame643_canny.jpg",
-            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame643_canny.jpg",
+            "id": "de43276a9f07e54156b47d6b1fe46c4d",
+            "name": "frame222.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame222.jpg",
             "size": {
                 "width": 1920,
                 "height": 1080
@@ -758,11 +738,11 @@
             "state": 2,
             "type": 1
         },
-        "6744d5a90cab7e1364ff9d6210b028c3": {
+        "eab5e26d43570c6679517496afac9228": {
             "format": "jpg",
-            "id": "6744d5a90cab7e1364ff9d6210b028c3",
-            "name": "frame644_canny.jpg",
-            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame644_canny.jpg",
+            "id": "eab5e26d43570c6679517496afac9228",
+            "name": "frame223.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame223.jpg",
             "size": {
                 "width": 1920,
                 "height": 1080
@@ -770,23 +750,3817 @@
             "state": 2,
             "type": 1
         },
-        "33269d288ed08884f19df35474214066": {
+        "f4fa1839e99647f382f485f866296c8b": {
             "format": "jpg",
-            "id": "33269d288ed08884f19df35474214066",
-            "name": "frame645_canny.jpg",
-            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame645_canny.jpg",
+            "id": "f4fa1839e99647f382f485f866296c8b",
+            "name": "frame224.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame224.jpg",
             "size": {
                 "width": 1920,
                 "height": 1080
             },
-            "state": 1,
+            "state": 2,
             "type": 1
         },
-        "b7511e2568e07cab75dd4d1767d5e2cd": {
+        "2061eef076542ea88c3cfef64fd02a04": {
             "format": "jpg",
-            "id": "b7511e2568e07cab75dd4d1767d5e2cd",
-            "name": "frame646_canny.jpg",
-            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/SourceFiles/Images/doelpunten_cam_4/result/frame646_canny.jpg",
+            "id": "2061eef076542ea88c3cfef64fd02a04",
+            "name": "frame225.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame225.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e68eb0518987d7b0aa592cfa3be0968d": {
+            "format": "jpg",
+            "id": "e68eb0518987d7b0aa592cfa3be0968d",
+            "name": "frame226.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame226.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "97f3df71370b87ce45f08f9c0079d471": {
+            "format": "jpg",
+            "id": "97f3df71370b87ce45f08f9c0079d471",
+            "name": "frame227.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame227.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e926c6629dd49c456f4e6303959b756e": {
+            "format": "jpg",
+            "id": "e926c6629dd49c456f4e6303959b756e",
+            "name": "frame228.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame228.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6da476d63d2431d12adf469ddb9cf6ff": {
+            "format": "jpg",
+            "id": "6da476d63d2431d12adf469ddb9cf6ff",
+            "name": "frame229.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame229.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8e0dc86288ca595e572f7be893b18b56": {
+            "format": "jpg",
+            "id": "8e0dc86288ca595e572f7be893b18b56",
+            "name": "frame230.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame230.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "adb6bc527b2771393a9e0950f59b26a1": {
+            "format": "jpg",
+            "id": "adb6bc527b2771393a9e0950f59b26a1",
+            "name": "frame231.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame231.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "717d288d52b843356b61401be14ba010": {
+            "format": "jpg",
+            "id": "717d288d52b843356b61401be14ba010",
+            "name": "frame232.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame232.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a618401c4eb7b01bf13776087d51b6f4": {
+            "format": "jpg",
+            "id": "a618401c4eb7b01bf13776087d51b6f4",
+            "name": "frame233.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame233.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d328a0e79cda132a003033a408a3d92c": {
+            "format": "jpg",
+            "id": "d328a0e79cda132a003033a408a3d92c",
+            "name": "frame234.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame234.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6a6f3a4d8fc83e7a648168a426a2c54e": {
+            "format": "jpg",
+            "id": "6a6f3a4d8fc83e7a648168a426a2c54e",
+            "name": "frame235.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame235.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e9dd5deab3a0ddbd769504140ec8a2c0": {
+            "format": "jpg",
+            "id": "e9dd5deab3a0ddbd769504140ec8a2c0",
+            "name": "frame236.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame236.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "af17ab867b3359ec2a71d10786312841": {
+            "format": "jpg",
+            "id": "af17ab867b3359ec2a71d10786312841",
+            "name": "frame237.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame237.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a42f36b52d796a23d8938913f68eeb23": {
+            "format": "jpg",
+            "id": "a42f36b52d796a23d8938913f68eeb23",
+            "name": "frame238.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame238.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b524aff820a02b13d26caa0b911e9bf7": {
+            "format": "jpg",
+            "id": "b524aff820a02b13d26caa0b911e9bf7",
+            "name": "frame239.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame239.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3774f78a953a330aea939cbed445275d": {
+            "format": "jpg",
+            "id": "3774f78a953a330aea939cbed445275d",
+            "name": "frame240.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame240.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e9e485b496948c5e6cbe4cbe9b2f6127": {
+            "format": "jpg",
+            "id": "e9e485b496948c5e6cbe4cbe9b2f6127",
+            "name": "frame241.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame241.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4e26adccc5705938f2be9ebf68a70935": {
+            "format": "jpg",
+            "id": "4e26adccc5705938f2be9ebf68a70935",
+            "name": "frame242.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame242.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "285185e0c82bfa812533e82139aab029": {
+            "format": "jpg",
+            "id": "285185e0c82bfa812533e82139aab029",
+            "name": "frame243.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame243.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2e23e1123488ba3755455be214c09caa": {
+            "format": "jpg",
+            "id": "2e23e1123488ba3755455be214c09caa",
+            "name": "frame244.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame244.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bd1446e964e6c0603d30a3660f556e87": {
+            "format": "jpg",
+            "id": "bd1446e964e6c0603d30a3660f556e87",
+            "name": "frame245.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame245.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a11b3c09c70ed1d31f81e1fbf99d8797": {
+            "format": "jpg",
+            "id": "a11b3c09c70ed1d31f81e1fbf99d8797",
+            "name": "frame246.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame246.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1af59347f1820cda6c03206532a3edbe": {
+            "format": "jpg",
+            "id": "1af59347f1820cda6c03206532a3edbe",
+            "name": "frame247.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame247.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "187980d5fe1707047c06475da0a2cfb0": {
+            "format": "jpg",
+            "id": "187980d5fe1707047c06475da0a2cfb0",
+            "name": "frame248.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame248.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bd93a7a71fd82f35172e87ba728f6cae": {
+            "format": "jpg",
+            "id": "bd93a7a71fd82f35172e87ba728f6cae",
+            "name": "frame249.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame249.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "26124a7db95776bcdc1a2558fc554b69": {
+            "format": "jpg",
+            "id": "26124a7db95776bcdc1a2558fc554b69",
+            "name": "frame250.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame250.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f1d998de4b73e3dd5272512acfee677a": {
+            "format": "jpg",
+            "id": "f1d998de4b73e3dd5272512acfee677a",
+            "name": "frame251.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame251.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "23c5812aaeeb789c8101c887541db6e1": {
+            "format": "jpg",
+            "id": "23c5812aaeeb789c8101c887541db6e1",
+            "name": "frame252.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame252.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5b07db8df67cd1faf76d0d7aa298dda6": {
+            "format": "jpg",
+            "id": "5b07db8df67cd1faf76d0d7aa298dda6",
+            "name": "frame253.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame253.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7d4a6a10673d6e6dc1220a4dae46db91": {
+            "format": "jpg",
+            "id": "7d4a6a10673d6e6dc1220a4dae46db91",
+            "name": "frame254.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame254.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "95539e0bd0084da2edb0382dd7cf27c5": {
+            "format": "jpg",
+            "id": "95539e0bd0084da2edb0382dd7cf27c5",
+            "name": "frame255.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame255.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ddc6084a9d774d92acf560c37ce59eff": {
+            "format": "jpg",
+            "id": "ddc6084a9d774d92acf560c37ce59eff",
+            "name": "frame256.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame256.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cfbb6ed7a233390f2f2a825281817ce1": {
+            "format": "jpg",
+            "id": "cfbb6ed7a233390f2f2a825281817ce1",
+            "name": "frame257.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame257.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3d2803790a6cff42eec5ff10808f3ed9": {
+            "format": "jpg",
+            "id": "3d2803790a6cff42eec5ff10808f3ed9",
+            "name": "frame258.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame258.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "338d6bcd8167706f182ce58fc4832f9c": {
+            "format": "jpg",
+            "id": "338d6bcd8167706f182ce58fc4832f9c",
+            "name": "frame259.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame259.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1e2a2ead0a46398b10e576c33b2e313f": {
+            "format": "jpg",
+            "id": "1e2a2ead0a46398b10e576c33b2e313f",
+            "name": "frame260.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame260.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f00bfd31d411cee29166dc2d9906dce3": {
+            "format": "jpg",
+            "id": "f00bfd31d411cee29166dc2d9906dce3",
+            "name": "frame261.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame261.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7c4154dd2e9d031ecf1e179cbd67597f": {
+            "format": "jpg",
+            "id": "7c4154dd2e9d031ecf1e179cbd67597f",
+            "name": "frame262.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame262.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a70f4ce22423a50c891b804332cd39c1": {
+            "format": "jpg",
+            "id": "a70f4ce22423a50c891b804332cd39c1",
+            "name": "frame263.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame263.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5c19000a2d849944b63f3b2eea80edcf": {
+            "format": "jpg",
+            "id": "5c19000a2d849944b63f3b2eea80edcf",
+            "name": "frame264.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame264.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9dc4b976211687c4f3e7c1a2de3d6fd4": {
+            "format": "jpg",
+            "id": "9dc4b976211687c4f3e7c1a2de3d6fd4",
+            "name": "frame265.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame265.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3c2e8e793849783d6c952c84358c9956": {
+            "format": "jpg",
+            "id": "3c2e8e793849783d6c952c84358c9956",
+            "name": "frame266.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame266.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7038e6c95454120b5cb253aaca4a2241": {
+            "format": "jpg",
+            "id": "7038e6c95454120b5cb253aaca4a2241",
+            "name": "frame267.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame267.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "74a8305d3900f5c8edd70bba161e4b03": {
+            "format": "jpg",
+            "id": "74a8305d3900f5c8edd70bba161e4b03",
+            "name": "frame268.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame268.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9df6baa47805e9b909b9fc31bd70a316": {
+            "format": "jpg",
+            "id": "9df6baa47805e9b909b9fc31bd70a316",
+            "name": "frame269.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame269.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7dca914cdb723cd87d7feba73b40619d": {
+            "format": "jpg",
+            "id": "7dca914cdb723cd87d7feba73b40619d",
+            "name": "frame270.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame270.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d59dea5e19658674d061f69d41dcb0a3": {
+            "format": "jpg",
+            "id": "d59dea5e19658674d061f69d41dcb0a3",
+            "name": "frame271.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame271.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2de19712eec0a06a2c6c5cda37171d7d": {
+            "format": "jpg",
+            "id": "2de19712eec0a06a2c6c5cda37171d7d",
+            "name": "frame272.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame272.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8cdf9f9b4df6960e388ef74d9a38c42f": {
+            "format": "jpg",
+            "id": "8cdf9f9b4df6960e388ef74d9a38c42f",
+            "name": "frame273.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame273.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1b132e6b088cd4392c0dd142125c1c39": {
+            "format": "jpg",
+            "id": "1b132e6b088cd4392c0dd142125c1c39",
+            "name": "frame274.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame274.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e02584855a67d9ac719c25180a6db25d": {
+            "format": "jpg",
+            "id": "e02584855a67d9ac719c25180a6db25d",
+            "name": "frame275.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame275.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "142bef20bff5e0a093cb91450cde41ef": {
+            "format": "jpg",
+            "id": "142bef20bff5e0a093cb91450cde41ef",
+            "name": "frame276.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame276.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0e86a82010067463f9a495197a9b356a": {
+            "format": "jpg",
+            "id": "0e86a82010067463f9a495197a9b356a",
+            "name": "frame277.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame277.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9b96bc300bad54eb080a616732efb116": {
+            "format": "jpg",
+            "id": "9b96bc300bad54eb080a616732efb116",
+            "name": "frame278.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame278.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3c23cd74723aea859341d26d76696c25": {
+            "format": "jpg",
+            "id": "3c23cd74723aea859341d26d76696c25",
+            "name": "frame279.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame279.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "db833497959ebaaa322603c8bf27b6a6": {
+            "format": "jpg",
+            "id": "db833497959ebaaa322603c8bf27b6a6",
+            "name": "frame280.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame280.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "223de482e1a1f6a890acf1a7b52612c5": {
+            "format": "jpg",
+            "id": "223de482e1a1f6a890acf1a7b52612c5",
+            "name": "frame281.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame281.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f4ebd5773ad150c2045cc9fe54676268": {
+            "format": "jpg",
+            "id": "f4ebd5773ad150c2045cc9fe54676268",
+            "name": "frame282.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame282.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0781ac1c85d36d1ca82951ea963dc83f": {
+            "format": "jpg",
+            "id": "0781ac1c85d36d1ca82951ea963dc83f",
+            "name": "frame283.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame283.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6acf1791134355b5366838e75bb8aaa6": {
+            "format": "jpg",
+            "id": "6acf1791134355b5366838e75bb8aaa6",
+            "name": "frame693.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame693.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "17943d69a9c41f33360549436ec817b4": {
+            "format": "jpg",
+            "id": "17943d69a9c41f33360549436ec817b4",
+            "name": "frame694.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame694.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "11dc83f89847f8c046c88fd30f6c33f2": {
+            "format": "jpg",
+            "id": "11dc83f89847f8c046c88fd30f6c33f2",
+            "name": "frame695.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame695.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cd009cc51ae7f396a1010b64708bbbd8": {
+            "format": "jpg",
+            "id": "cd009cc51ae7f396a1010b64708bbbd8",
+            "name": "frame696.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame696.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e49282978c22074ff5542a4fd08275a3": {
+            "format": "jpg",
+            "id": "e49282978c22074ff5542a4fd08275a3",
+            "name": "frame697.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame697.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2db30c23499a62eeaaf0b152ca0a4db6": {
+            "format": "jpg",
+            "id": "2db30c23499a62eeaaf0b152ca0a4db6",
+            "name": "frame698.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame698.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bb000294e182065711ff5947a99f827c": {
+            "format": "jpg",
+            "id": "bb000294e182065711ff5947a99f827c",
+            "name": "frame699.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame699.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7e13a7d4dc596bad7026df88ba531e40": {
+            "format": "jpg",
+            "id": "7e13a7d4dc596bad7026df88ba531e40",
+            "name": "frame700.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame700.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "48c0bf5f10374841b0c0ef8ee914d8b1": {
+            "format": "jpg",
+            "id": "48c0bf5f10374841b0c0ef8ee914d8b1",
+            "name": "frame701.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame701.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3fbbb37883e4260380ab8cfa2d885182": {
+            "format": "jpg",
+            "id": "3fbbb37883e4260380ab8cfa2d885182",
+            "name": "frame702.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame702.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1292957993b873a479ce9c70e8052022": {
+            "format": "jpg",
+            "id": "1292957993b873a479ce9c70e8052022",
+            "name": "frame703.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame703.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "657ab7559eab9a21775e6110b51d3951": {
+            "format": "jpg",
+            "id": "657ab7559eab9a21775e6110b51d3951",
+            "name": "frame704.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame704.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7eb81b39e893475f02eec02379bd0a24": {
+            "format": "jpg",
+            "id": "7eb81b39e893475f02eec02379bd0a24",
+            "name": "frame705.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame705.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "51431a26bce25840fa903a7204a4d152": {
+            "format": "jpg",
+            "id": "51431a26bce25840fa903a7204a4d152",
+            "name": "frame706.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame706.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "59dcd89d8ebb39554acb76da035188ee": {
+            "format": "jpg",
+            "id": "59dcd89d8ebb39554acb76da035188ee",
+            "name": "frame707.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame707.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "afa91d5b900b6fbf057f9e2e719cae7b": {
+            "format": "jpg",
+            "id": "afa91d5b900b6fbf057f9e2e719cae7b",
+            "name": "frame708.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame708.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "532442c32c510de6b56a30bf58b5c0cb": {
+            "format": "jpg",
+            "id": "532442c32c510de6b56a30bf58b5c0cb",
+            "name": "frame709.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame709.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1a935a32af80b3caaaa0ad5c702eef2c": {
+            "format": "jpg",
+            "id": "1a935a32af80b3caaaa0ad5c702eef2c",
+            "name": "frame710.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame710.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "09810e19577bea15e207f9061b63779c": {
+            "format": "jpg",
+            "id": "09810e19577bea15e207f9061b63779c",
+            "name": "frame711.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame711.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "64f2cc9c9b35140a8d007b5d85869801": {
+            "format": "jpg",
+            "id": "64f2cc9c9b35140a8d007b5d85869801",
+            "name": "frame712.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame712.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b8280c6297c3073b01a785572043ecd5": {
+            "format": "jpg",
+            "id": "b8280c6297c3073b01a785572043ecd5",
+            "name": "frame713.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame713.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "375c2c98381941c27bcbe18c92d1e9cb": {
+            "format": "jpg",
+            "id": "375c2c98381941c27bcbe18c92d1e9cb",
+            "name": "frame714.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame714.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "625165b9db3bb1745cb9f75370be3dd0": {
+            "format": "jpg",
+            "id": "625165b9db3bb1745cb9f75370be3dd0",
+            "name": "frame715.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame715.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "416fee803d3730f11582b9fab1f58753": {
+            "format": "jpg",
+            "id": "416fee803d3730f11582b9fab1f58753",
+            "name": "frame716.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame716.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e168a036bddc0becffe40870f057e980": {
+            "format": "jpg",
+            "id": "e168a036bddc0becffe40870f057e980",
+            "name": "frame717.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame717.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a893ae204b10ce02672d9f02238ffb9d": {
+            "format": "jpg",
+            "id": "a893ae204b10ce02672d9f02238ffb9d",
+            "name": "frame718.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame718.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "dc593d0bec33b18e4cd7c392e85f3349": {
+            "format": "jpg",
+            "id": "dc593d0bec33b18e4cd7c392e85f3349",
+            "name": "frame719.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame719.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "24351196f2b79b4f17bff9a2bd8365e1": {
+            "format": "jpg",
+            "id": "24351196f2b79b4f17bff9a2bd8365e1",
+            "name": "frame720.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame720.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cff95660a9ded5f5c134895a00cc9ae6": {
+            "format": "jpg",
+            "id": "cff95660a9ded5f5c134895a00cc9ae6",
+            "name": "frame721.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame721.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "86caf8ced4f906024ae5b2f19a587806": {
+            "format": "jpg",
+            "id": "86caf8ced4f906024ae5b2f19a587806",
+            "name": "frame722.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame722.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cae917271d594bb2ec9984aebabec920": {
+            "format": "jpg",
+            "id": "cae917271d594bb2ec9984aebabec920",
+            "name": "frame723.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame723.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "71586c70ae7a430b08bf3a2d93ac3257": {
+            "format": "jpg",
+            "id": "71586c70ae7a430b08bf3a2d93ac3257",
+            "name": "frame724.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame724.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4140a43dbdd1fd82811cd546d465b949": {
+            "format": "jpg",
+            "id": "4140a43dbdd1fd82811cd546d465b949",
+            "name": "frame725.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame725.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f2157614bcc979adf96c8c8cfc933f34": {
+            "format": "jpg",
+            "id": "f2157614bcc979adf96c8c8cfc933f34",
+            "name": "frame726.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame726.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "97b63afbebbb195b50cc84e8701fdca3": {
+            "format": "jpg",
+            "id": "97b63afbebbb195b50cc84e8701fdca3",
+            "name": "frame727.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame727.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "871ead785f7b0663f62aeae7be429cf3": {
+            "format": "jpg",
+            "id": "871ead785f7b0663f62aeae7be429cf3",
+            "name": "frame728.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame728.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "189a256834b05e513ead789564e0d5a1": {
+            "format": "jpg",
+            "id": "189a256834b05e513ead789564e0d5a1",
+            "name": "frame729.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame729.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "20f76e482b1361ce87e619e6060e0720": {
+            "format": "jpg",
+            "id": "20f76e482b1361ce87e619e6060e0720",
+            "name": "frame730.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame730.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ce0e0a7da0c5f35db20bef6fe6bd182b": {
+            "format": "jpg",
+            "id": "ce0e0a7da0c5f35db20bef6fe6bd182b",
+            "name": "frame731.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame731.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4fd738b47cd8db73c7e79d92ea0416c4": {
+            "format": "jpg",
+            "id": "4fd738b47cd8db73c7e79d92ea0416c4",
+            "name": "frame732.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame732.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8f44660715d176c7df0a37661ae8d715": {
+            "format": "jpg",
+            "id": "8f44660715d176c7df0a37661ae8d715",
+            "name": "frame733.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame733.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ce6c40b934b86082a5a4803f88066513": {
+            "format": "jpg",
+            "id": "ce6c40b934b86082a5a4803f88066513",
+            "name": "frame734.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame734.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b485cb4e65f4ce7ca9485713c478b5d6": {
+            "format": "jpg",
+            "id": "b485cb4e65f4ce7ca9485713c478b5d6",
+            "name": "frame735.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame735.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ddb147e43ec93114387257f006200cbe": {
+            "format": "jpg",
+            "id": "ddb147e43ec93114387257f006200cbe",
+            "name": "frame736.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame736.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ea374e3bbcdfc60753425a05aff453b6": {
+            "format": "jpg",
+            "id": "ea374e3bbcdfc60753425a05aff453b6",
+            "name": "frame737.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame737.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7c4a9dd65d451337c06883019ddd79cc": {
+            "format": "jpg",
+            "id": "7c4a9dd65d451337c06883019ddd79cc",
+            "name": "frame738.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame738.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f707485a217b913cf98c46bbe3196216": {
+            "format": "jpg",
+            "id": "f707485a217b913cf98c46bbe3196216",
+            "name": "frame739.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame739.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "da525c4930a03c98929ffd9c361eb874": {
+            "format": "jpg",
+            "id": "da525c4930a03c98929ffd9c361eb874",
+            "name": "frame740.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame740.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1,
+            "predicted": true
+        },
+        "83ba446456783c22afd8fdb6187d737f": {
+            "format": "jpg",
+            "id": "83ba446456783c22afd8fdb6187d737f",
+            "name": "frame741.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame741.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2f28818af7d930cbaf890558da03a889": {
+            "format": "jpg",
+            "id": "2f28818af7d930cbaf890558da03a889",
+            "name": "frame742.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame742.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0e9323d5a03450b188a1bb8bd6c7078a": {
+            "format": "jpg",
+            "id": "0e9323d5a03450b188a1bb8bd6c7078a",
+            "name": "frame743.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame743.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7cd510dfde62ca35aae343f18ff74b77": {
+            "format": "jpg",
+            "id": "7cd510dfde62ca35aae343f18ff74b77",
+            "name": "frame744.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame744.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0252aa9191c5530fb9eb07192857da1a": {
+            "format": "jpg",
+            "id": "0252aa9191c5530fb9eb07192857da1a",
+            "name": "frame745.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame745.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d0dc055b51e0c76ae4abb82ccaecf1c6": {
+            "format": "jpg",
+            "id": "d0dc055b51e0c76ae4abb82ccaecf1c6",
+            "name": "frame746.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame746.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7928515ec2c4d77d64d350e064d7954f": {
+            "format": "jpg",
+            "id": "7928515ec2c4d77d64d350e064d7954f",
+            "name": "frame747.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame747.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "88920796427e35eef697e95f40faf009": {
+            "format": "jpg",
+            "id": "88920796427e35eef697e95f40faf009",
+            "name": "frame748.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame748.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9cf7b2ed986ddbd7b944a975e8dbbd1e": {
+            "format": "jpg",
+            "id": "9cf7b2ed986ddbd7b944a975e8dbbd1e",
+            "name": "frame749.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame749.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5ba17278ca5ce6487e19617a58a36325": {
+            "format": "jpg",
+            "id": "5ba17278ca5ce6487e19617a58a36325",
+            "name": "frame750.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame750.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "eb87d4dfcb7db31324fb60fa6a83583a": {
+            "format": "jpg",
+            "id": "eb87d4dfcb7db31324fb60fa6a83583a",
+            "name": "frame751.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame751.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ac5bb4a0ad70e770e7e382579ced4dfb": {
+            "format": "jpg",
+            "id": "ac5bb4a0ad70e770e7e382579ced4dfb",
+            "name": "frame752.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame752.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1,
+            "predicted": true
+        },
+        "bd4fc244d50704cc580c824d45acb27b": {
+            "format": "jpg",
+            "id": "bd4fc244d50704cc580c824d45acb27b",
+            "name": "frame753.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame753.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1a5e535b1129f83befde5f1935336df3": {
+            "format": "jpg",
+            "id": "1a5e535b1129f83befde5f1935336df3",
+            "name": "frame754.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame754.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "600a4dbce7350ab7cab5bf7f8c3bc8a8": {
+            "format": "jpg",
+            "id": "600a4dbce7350ab7cab5bf7f8c3bc8a8",
+            "name": "frame755.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame755.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fd9d7e40a0054bd53c608a66ec4a78d8": {
+            "format": "jpg",
+            "id": "fd9d7e40a0054bd53c608a66ec4a78d8",
+            "name": "frame756.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame756.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9688ab546ca2b37d58c61421906e6811": {
+            "format": "jpg",
+            "id": "9688ab546ca2b37d58c61421906e6811",
+            "name": "frame757.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame757.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6f136dc1fb0e7afe3550d90a867e75e3": {
+            "format": "jpg",
+            "id": "6f136dc1fb0e7afe3550d90a867e75e3",
+            "name": "frame758.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame758.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e6181556e8e43c7cfdc25379e55d4733": {
+            "format": "jpg",
+            "id": "e6181556e8e43c7cfdc25379e55d4733",
+            "name": "frame759.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame759.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f5849b9fd31c656c70af59371abaaaed": {
+            "format": "jpg",
+            "id": "f5849b9fd31c656c70af59371abaaaed",
+            "name": "frame760.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame760.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c6a53999942f4680e5a89679e8bed1b4": {
+            "format": "jpg",
+            "id": "c6a53999942f4680e5a89679e8bed1b4",
+            "name": "frame761.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame761.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6b3d1e2d3ad46db6173f930b092db41a": {
+            "format": "jpg",
+            "id": "6b3d1e2d3ad46db6173f930b092db41a",
+            "name": "frame762.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/frame762.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5e9f28946e63e5d82f74291457087c11": {
+            "format": "jpg",
+            "id": "5e9f28946e63e5d82f74291457087c11",
+            "name": "frame166_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame166_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6b5617981d0ebed7909f3996bff03d49": {
+            "format": "jpg",
+            "id": "6b5617981d0ebed7909f3996bff03d49",
+            "name": "frame167_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame167_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "75a5b6b8dad8ffd4cabea89802793f16": {
+            "format": "jpg",
+            "id": "75a5b6b8dad8ffd4cabea89802793f16",
+            "name": "frame168_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame168_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d478dcb3c60413e961bf6e7d0e05c78f": {
+            "format": "jpg",
+            "id": "d478dcb3c60413e961bf6e7d0e05c78f",
+            "name": "frame169_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame169_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "13ba536bb58a586973b102f898272f38": {
+            "format": "jpg",
+            "id": "13ba536bb58a586973b102f898272f38",
+            "name": "frame170_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame170_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "90ac8277bdc9e056a5b0730df4222ceb": {
+            "format": "jpg",
+            "id": "90ac8277bdc9e056a5b0730df4222ceb",
+            "name": "frame171_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame171_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f1d940f342ebad5c213a96cfd1b7490c": {
+            "format": "jpg",
+            "id": "f1d940f342ebad5c213a96cfd1b7490c",
+            "name": "frame172_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame172_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "054e2b0c9a2aa586eafb10cf25eb5079": {
+            "format": "jpg",
+            "id": "054e2b0c9a2aa586eafb10cf25eb5079",
+            "name": "frame173_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame173_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f667293590714c1994853947580049bb": {
+            "format": "jpg",
+            "id": "f667293590714c1994853947580049bb",
+            "name": "frame174_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame174_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "765a0c5b91059e3735ea2bc9e834e1c1": {
+            "format": "jpg",
+            "id": "765a0c5b91059e3735ea2bc9e834e1c1",
+            "name": "frame175_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame175_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c7a89e13e69931ec071f06c5c9d00d57": {
+            "format": "jpg",
+            "id": "c7a89e13e69931ec071f06c5c9d00d57",
+            "name": "frame176_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame176_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a9bfbacc54252cebf71a9b8e8c34aa48": {
+            "format": "jpg",
+            "id": "a9bfbacc54252cebf71a9b8e8c34aa48",
+            "name": "frame177_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame177_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "17711ea9606097b1e98dc3a26d5ff000": {
+            "format": "jpg",
+            "id": "17711ea9606097b1e98dc3a26d5ff000",
+            "name": "frame178_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame178_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c123486d3dc8b2d8fffb10f3f6a0a4ed": {
+            "format": "jpg",
+            "id": "c123486d3dc8b2d8fffb10f3f6a0a4ed",
+            "name": "frame179_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame179_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a07ac88ece1d0f9848f8c407c38091c3": {
+            "format": "jpg",
+            "id": "a07ac88ece1d0f9848f8c407c38091c3",
+            "name": "frame180_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame180_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "494c51d8e5b77250b8a3d3d5cc097703": {
+            "format": "jpg",
+            "id": "494c51d8e5b77250b8a3d3d5cc097703",
+            "name": "frame181_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame181_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c8f620eed2c978ef2b664742bd737020": {
+            "format": "jpg",
+            "id": "c8f620eed2c978ef2b664742bd737020",
+            "name": "frame182_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame182_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "74770a7be45b3236728901a5015f1ac4": {
+            "format": "jpg",
+            "id": "74770a7be45b3236728901a5015f1ac4",
+            "name": "frame183_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame183_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f50215e444ca06f557c53fd16a1a3266": {
+            "format": "jpg",
+            "id": "f50215e444ca06f557c53fd16a1a3266",
+            "name": "frame184_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame184_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "353f52f279eed7ddc74d13f28ebeeb59": {
+            "format": "jpg",
+            "id": "353f52f279eed7ddc74d13f28ebeeb59",
+            "name": "frame185_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame185_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a21d0a7cccce281a5904a682e4ab0fb8": {
+            "format": "jpg",
+            "id": "a21d0a7cccce281a5904a682e4ab0fb8",
+            "name": "frame186_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame186_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "de090f52b97fcb2e6c796ad66e743935": {
+            "format": "jpg",
+            "id": "de090f52b97fcb2e6c796ad66e743935",
+            "name": "frame187_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame187_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3bdddd47b5ebeb80062834b1cb47326a": {
+            "format": "jpg",
+            "id": "3bdddd47b5ebeb80062834b1cb47326a",
+            "name": "frame188_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame188_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0802486b4766bb03f338057832d4abd1": {
+            "format": "jpg",
+            "id": "0802486b4766bb03f338057832d4abd1",
+            "name": "frame189_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame189_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0f115a6926c459b53646859eb1664569": {
+            "format": "jpg",
+            "id": "0f115a6926c459b53646859eb1664569",
+            "name": "frame190_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame190_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "494ab234b5003bb003394992ab2000f8": {
+            "format": "jpg",
+            "id": "494ab234b5003bb003394992ab2000f8",
+            "name": "frame191_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame191_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9849de93e9aaeba1c50ce2b083951528": {
+            "format": "jpg",
+            "id": "9849de93e9aaeba1c50ce2b083951528",
+            "name": "frame192_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame192_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a4f5d0f8b8d541db226eaf5e33fdec14": {
+            "format": "jpg",
+            "id": "a4f5d0f8b8d541db226eaf5e33fdec14",
+            "name": "frame193_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame193_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d09741b017de31d35df5803f6d3d7402": {
+            "format": "jpg",
+            "id": "d09741b017de31d35df5803f6d3d7402",
+            "name": "frame194_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame194_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "786d8cee84b908e6e02d28e8b28e2967": {
+            "format": "jpg",
+            "id": "786d8cee84b908e6e02d28e8b28e2967",
+            "name": "frame195_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame195_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "18d10b53233b50f7e906d29a343bf9a7": {
+            "format": "jpg",
+            "id": "18d10b53233b50f7e906d29a343bf9a7",
+            "name": "frame196_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame196_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "20aeb81cf5687b09533bea5717112520": {
+            "format": "jpg",
+            "id": "20aeb81cf5687b09533bea5717112520",
+            "name": "frame197_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame197_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d615a38f0f7220376afde0a5bc330928": {
+            "format": "jpg",
+            "id": "d615a38f0f7220376afde0a5bc330928",
+            "name": "frame198_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame198_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "658736fae68b8a2d86a8ee426604d6e4": {
+            "format": "jpg",
+            "id": "658736fae68b8a2d86a8ee426604d6e4",
+            "name": "frame199_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame199_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "67ebebda4f6491b80eb77de1404d9569": {
+            "format": "jpg",
+            "id": "67ebebda4f6491b80eb77de1404d9569",
+            "name": "frame200_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame200_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d8014434175cd0d284110a32f7b3df7c": {
+            "format": "jpg",
+            "id": "d8014434175cd0d284110a32f7b3df7c",
+            "name": "frame201_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame201_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fd6fa6e77b4027cce643390d4d416a3f": {
+            "format": "jpg",
+            "id": "fd6fa6e77b4027cce643390d4d416a3f",
+            "name": "frame202_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame202_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6d63e433ef8fe1e72eebc532078a89c5": {
+            "format": "jpg",
+            "id": "6d63e433ef8fe1e72eebc532078a89c5",
+            "name": "frame203_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame203_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9ee7bae6e456a7e181f9e15033952103": {
+            "format": "jpg",
+            "id": "9ee7bae6e456a7e181f9e15033952103",
+            "name": "frame204_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame204_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2d0f145d6c745b421fdb276b2eb1cda7": {
+            "format": "jpg",
+            "id": "2d0f145d6c745b421fdb276b2eb1cda7",
+            "name": "frame205_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame205_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1c671ce7af236f363315045edbdbe3d1": {
+            "format": "jpg",
+            "id": "1c671ce7af236f363315045edbdbe3d1",
+            "name": "frame206_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame206_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f7a4173ed8632cfc5562b9f6a152bedf": {
+            "format": "jpg",
+            "id": "f7a4173ed8632cfc5562b9f6a152bedf",
+            "name": "frame207_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame207_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "82976f0753641c4bc0cef20ab5dc69d0": {
+            "format": "jpg",
+            "id": "82976f0753641c4bc0cef20ab5dc69d0",
+            "name": "frame208_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame208_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2e8c86b5461fbe88c4399cc03a159d93": {
+            "format": "jpg",
+            "id": "2e8c86b5461fbe88c4399cc03a159d93",
+            "name": "frame209_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame209_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "489fabd488c02c36ea9f5ecbe375198f": {
+            "format": "jpg",
+            "id": "489fabd488c02c36ea9f5ecbe375198f",
+            "name": "frame210_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame210_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8f2ba11459f446591f40b873de25dc3a": {
+            "format": "jpg",
+            "id": "8f2ba11459f446591f40b873de25dc3a",
+            "name": "frame211_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame211_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a80b7503f6a2e02f02af69256204fb03": {
+            "format": "jpg",
+            "id": "a80b7503f6a2e02f02af69256204fb03",
+            "name": "frame212_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame212_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e115c56ace75b040fbd935b7ce65e5f4": {
+            "format": "jpg",
+            "id": "e115c56ace75b040fbd935b7ce65e5f4",
+            "name": "frame213_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame213_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "550d98aeb565f6f38ac90db7ed0e42da": {
+            "format": "jpg",
+            "id": "550d98aeb565f6f38ac90db7ed0e42da",
+            "name": "frame214_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame214_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ceb66cf4e3d7089f255db520c28f85aa": {
+            "format": "jpg",
+            "id": "ceb66cf4e3d7089f255db520c28f85aa",
+            "name": "frame215_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame215_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e49fad8bba975c943063585987713e65": {
+            "format": "jpg",
+            "id": "e49fad8bba975c943063585987713e65",
+            "name": "frame216_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame216_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "63b7dc2dc6666011659ddd5007777819": {
+            "format": "jpg",
+            "id": "63b7dc2dc6666011659ddd5007777819",
+            "name": "frame217_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame217_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "19bb455c16f915d4fa80ab0122480d0b": {
+            "format": "jpg",
+            "id": "19bb455c16f915d4fa80ab0122480d0b",
+            "name": "frame218_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame218_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a22e427435b629bb24029427ba8826c8": {
+            "format": "jpg",
+            "id": "a22e427435b629bb24029427ba8826c8",
+            "name": "frame219_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame219_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b72005e331d8ed51fe7ba5c16c6e3028": {
+            "format": "jpg",
+            "id": "b72005e331d8ed51fe7ba5c16c6e3028",
+            "name": "frame220_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame220_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "488d8fead6fbe5819d91c92f0a5e9c19": {
+            "format": "jpg",
+            "id": "488d8fead6fbe5819d91c92f0a5e9c19",
+            "name": "frame221_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame221_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5603d301ba30fa4e00ecdae8f2da6bff": {
+            "format": "jpg",
+            "id": "5603d301ba30fa4e00ecdae8f2da6bff",
+            "name": "frame222_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame222_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "67fe3f52844ed829cc0b027086c8ae83": {
+            "format": "jpg",
+            "id": "67fe3f52844ed829cc0b027086c8ae83",
+            "name": "frame223_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame223_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f8e5874db265d1e5cccc5ac4447835b4": {
+            "format": "jpg",
+            "id": "f8e5874db265d1e5cccc5ac4447835b4",
+            "name": "frame224_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame224_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a408355d2080333132599c71169efb41": {
+            "format": "jpg",
+            "id": "a408355d2080333132599c71169efb41",
+            "name": "frame225_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame225_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1b211c03228b38d7ba49768bf51d4cf7": {
+            "format": "jpg",
+            "id": "1b211c03228b38d7ba49768bf51d4cf7",
+            "name": "frame226_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame226_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "46b51fbfe94ad9fdcc09d729a245dab3": {
+            "format": "jpg",
+            "id": "46b51fbfe94ad9fdcc09d729a245dab3",
+            "name": "frame227_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame227_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2a0601a9c756037ba64ab0d0958b9127": {
+            "format": "jpg",
+            "id": "2a0601a9c756037ba64ab0d0958b9127",
+            "name": "frame228_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame228_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "467fd938b6899e15ade2ef46d4544ee7": {
+            "format": "jpg",
+            "id": "467fd938b6899e15ade2ef46d4544ee7",
+            "name": "frame229_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame229_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "768c30071649d12df6d95fa84ceecf82": {
+            "format": "jpg",
+            "id": "768c30071649d12df6d95fa84ceecf82",
+            "name": "frame230_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame230_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "315e8655ce6a9d4d4b32963a53bb955e": {
+            "format": "jpg",
+            "id": "315e8655ce6a9d4d4b32963a53bb955e",
+            "name": "frame231_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame231_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0453f749a260365eccc92a8870547896": {
+            "format": "jpg",
+            "id": "0453f749a260365eccc92a8870547896",
+            "name": "frame232_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame232_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fbd613c8c7c19fc708f48691696a33fa": {
+            "format": "jpg",
+            "id": "fbd613c8c7c19fc708f48691696a33fa",
+            "name": "frame233_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame233_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "877b028153d6bc2ca9d69ed06d27bfd0": {
+            "format": "jpg",
+            "id": "877b028153d6bc2ca9d69ed06d27bfd0",
+            "name": "frame234_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame234_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "66bfa5d3020e7ea6a04e3ee7198551f2": {
+            "format": "jpg",
+            "id": "66bfa5d3020e7ea6a04e3ee7198551f2",
+            "name": "frame235_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame235_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "54f6110dcbe52a18ac52434b9bc342fc": {
+            "format": "jpg",
+            "id": "54f6110dcbe52a18ac52434b9bc342fc",
+            "name": "frame236_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame236_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "da9fb2a78480a7b47efb28dafa425eac": {
+            "format": "jpg",
+            "id": "da9fb2a78480a7b47efb28dafa425eac",
+            "name": "frame237_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame237_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "40444134a3ae843b5627099f6285afe2": {
+            "format": "jpg",
+            "id": "40444134a3ae843b5627099f6285afe2",
+            "name": "frame238_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame238_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "82c7a30146e1e3fc944d335b8cc8d991": {
+            "format": "jpg",
+            "id": "82c7a30146e1e3fc944d335b8cc8d991",
+            "name": "frame239_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame239_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "263561c6ca953c1a068476b4d27f4f9a": {
+            "format": "jpg",
+            "id": "263561c6ca953c1a068476b4d27f4f9a",
+            "name": "frame240_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame240_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8acef1c3933e7278661dfb6049b5d4ef": {
+            "format": "jpg",
+            "id": "8acef1c3933e7278661dfb6049b5d4ef",
+            "name": "frame241_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame241_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bd3dfc4f14d76a1989cc19e4d44f8429": {
+            "format": "jpg",
+            "id": "bd3dfc4f14d76a1989cc19e4d44f8429",
+            "name": "frame242_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame242_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "92688167cf07d0cab81d9fe31ef327c4": {
+            "format": "jpg",
+            "id": "92688167cf07d0cab81d9fe31ef327c4",
+            "name": "frame243_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame243_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "53b51777e554596e9517c5dc076c58d2": {
+            "format": "jpg",
+            "id": "53b51777e554596e9517c5dc076c58d2",
+            "name": "frame244_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame244_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6caba80fe8f7b37572b39cef50794f1d": {
+            "format": "jpg",
+            "id": "6caba80fe8f7b37572b39cef50794f1d",
+            "name": "frame245_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame245_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ccafcf4efb6fab8bfc3b5f82c4c70902": {
+            "format": "jpg",
+            "id": "ccafcf4efb6fab8bfc3b5f82c4c70902",
+            "name": "frame246_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame246_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1e72143114257f81602bddfd0eac76d7": {
+            "format": "jpg",
+            "id": "1e72143114257f81602bddfd0eac76d7",
+            "name": "frame247_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame247_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "baa22d76f0f5850683daa5a29bdbecbc": {
+            "format": "jpg",
+            "id": "baa22d76f0f5850683daa5a29bdbecbc",
+            "name": "frame248_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame248_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f0b541784ff0c4546640f2e375921e8c": {
+            "format": "jpg",
+            "id": "f0b541784ff0c4546640f2e375921e8c",
+            "name": "frame249_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame249_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "88cccc4b2d3f3615bef1901682a6348d": {
+            "format": "jpg",
+            "id": "88cccc4b2d3f3615bef1901682a6348d",
+            "name": "frame250_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame250_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a77bb73ef221b89b313c8ded684fe84d": {
+            "format": "jpg",
+            "id": "a77bb73ef221b89b313c8ded684fe84d",
+            "name": "frame251_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame251_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f26a80199f637924932eb84189b410c3": {
+            "format": "jpg",
+            "id": "f26a80199f637924932eb84189b410c3",
+            "name": "frame252_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame252_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e75ec0138665d9f48065f7fd414d7121": {
+            "format": "jpg",
+            "id": "e75ec0138665d9f48065f7fd414d7121",
+            "name": "frame253_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame253_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "992cca0db5354b4781f181150179e89f": {
+            "format": "jpg",
+            "id": "992cca0db5354b4781f181150179e89f",
+            "name": "frame254_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame254_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c3b917978a82d955f0e92e9de50d5fbc": {
+            "format": "jpg",
+            "id": "c3b917978a82d955f0e92e9de50d5fbc",
+            "name": "frame255_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame255_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a71ae481720e87c17c651a19e9315a82": {
+            "format": "jpg",
+            "id": "a71ae481720e87c17c651a19e9315a82",
+            "name": "frame256_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame256_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2a585814eda0b47687e971bbe0f7346a": {
+            "format": "jpg",
+            "id": "2a585814eda0b47687e971bbe0f7346a",
+            "name": "frame257_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame257_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "334c5e6d2c70cceebfbf3b81bab4bbc5": {
+            "format": "jpg",
+            "id": "334c5e6d2c70cceebfbf3b81bab4bbc5",
+            "name": "frame258_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame258_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bfb3c1b82810eba9404826ba79182e81": {
+            "format": "jpg",
+            "id": "bfb3c1b82810eba9404826ba79182e81",
+            "name": "frame259_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame259_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bd063ddd81480880b96f47b069c95561": {
+            "format": "jpg",
+            "id": "bd063ddd81480880b96f47b069c95561",
+            "name": "frame260_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame260_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "da703fe18e6dd8571cd05c0b440af79b": {
+            "format": "jpg",
+            "id": "da703fe18e6dd8571cd05c0b440af79b",
+            "name": "frame261_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame261_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4465eb57f3a17ec58845e7db1e871077": {
+            "format": "jpg",
+            "id": "4465eb57f3a17ec58845e7db1e871077",
+            "name": "frame262_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame262_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4e9d99f441491a3fa9d09eae6368bbc2": {
+            "format": "jpg",
+            "id": "4e9d99f441491a3fa9d09eae6368bbc2",
+            "name": "frame263_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame263_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "35c971e55bdd78184d922c893da89ae4": {
+            "format": "jpg",
+            "id": "35c971e55bdd78184d922c893da89ae4",
+            "name": "frame264_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame264_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "df462645f3c54e35fa8e370d0841ba71": {
+            "format": "jpg",
+            "id": "df462645f3c54e35fa8e370d0841ba71",
+            "name": "frame265_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame265_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "29dfec32543bd7b56ebad1bc9376aac5": {
+            "format": "jpg",
+            "id": "29dfec32543bd7b56ebad1bc9376aac5",
+            "name": "frame266_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame266_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e7f3922183fea0853fab03336938cbb2": {
+            "format": "jpg",
+            "id": "e7f3922183fea0853fab03336938cbb2",
+            "name": "frame267_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame267_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ac16760a4e054a53fd42d17c9bab378a": {
+            "format": "jpg",
+            "id": "ac16760a4e054a53fd42d17c9bab378a",
+            "name": "frame268_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame268_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c171895e217d8cbfe94cb266d8a16f40": {
+            "format": "jpg",
+            "id": "c171895e217d8cbfe94cb266d8a16f40",
+            "name": "frame269_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame269_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fbc2e3f9dae79c99ad5e2ba1b2067916": {
+            "format": "jpg",
+            "id": "fbc2e3f9dae79c99ad5e2ba1b2067916",
+            "name": "frame270_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame270_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0121a703c0a33fb263c06ec2b9fdfc70": {
+            "format": "jpg",
+            "id": "0121a703c0a33fb263c06ec2b9fdfc70",
+            "name": "frame271_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame271_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "35adfcba41475b317a79110df2c9026b": {
+            "format": "jpg",
+            "id": "35adfcba41475b317a79110df2c9026b",
+            "name": "frame272_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame272_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "01d673a98e7d39e7e7a75ce47bf0075f": {
+            "format": "jpg",
+            "id": "01d673a98e7d39e7e7a75ce47bf0075f",
+            "name": "frame273_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame273_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "83bdda905c865cbe0f00705eaf7125ed": {
+            "format": "jpg",
+            "id": "83bdda905c865cbe0f00705eaf7125ed",
+            "name": "frame274_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame274_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "73799485dd6612f66bf053fdb40352ac": {
+            "format": "jpg",
+            "id": "73799485dd6612f66bf053fdb40352ac",
+            "name": "frame275_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame275_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1b98274b344889258b6867f54fd75028": {
+            "format": "jpg",
+            "id": "1b98274b344889258b6867f54fd75028",
+            "name": "frame276_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame276_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "43ab80b994e9135de181d6dec42bf617": {
+            "format": "jpg",
+            "id": "43ab80b994e9135de181d6dec42bf617",
+            "name": "frame277_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame277_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "48b1083ced0604e57d940cbaa5fd9e46": {
+            "format": "jpg",
+            "id": "48b1083ced0604e57d940cbaa5fd9e46",
+            "name": "frame278_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame278_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b859a28a7cff89d84c921c9cd22c91ed": {
+            "format": "jpg",
+            "id": "b859a28a7cff89d84c921c9cd22c91ed",
+            "name": "frame279_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame279_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "28225c2853967cbfb1022d6e4919ca05": {
+            "format": "jpg",
+            "id": "28225c2853967cbfb1022d6e4919ca05",
+            "name": "frame280_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame280_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "30c9190063a4169aeb0b6663a5b20e91": {
+            "format": "jpg",
+            "id": "30c9190063a4169aeb0b6663a5b20e91",
+            "name": "frame281_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame281_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9a8d547a1b7965d26789d2ebb1d6cfaf": {
+            "format": "jpg",
+            "id": "9a8d547a1b7965d26789d2ebb1d6cfaf",
+            "name": "frame282_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame282_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9d890f9be9fbd7939ae8e05b44cf9110": {
+            "format": "jpg",
+            "id": "9d890f9be9fbd7939ae8e05b44cf9110",
+            "name": "frame283_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame283_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b7e5375d2820af6de71f740f65a5f04e": {
+            "format": "jpg",
+            "id": "b7e5375d2820af6de71f740f65a5f04e",
+            "name": "frame693_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame693_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9fc1aa589f8c777c6bedb77512d9ddfd": {
+            "format": "jpg",
+            "id": "9fc1aa589f8c777c6bedb77512d9ddfd",
+            "name": "frame694_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame694_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f5bd8779bfdd48fc03bd25dc07605041": {
+            "format": "jpg",
+            "id": "f5bd8779bfdd48fc03bd25dc07605041",
+            "name": "frame695_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame695_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d8dfbb33b67b5006da961bfd5738cd34": {
+            "format": "jpg",
+            "id": "d8dfbb33b67b5006da961bfd5738cd34",
+            "name": "frame696_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame696_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b0a972527586bdfe0ca605802204984a": {
+            "format": "jpg",
+            "id": "b0a972527586bdfe0ca605802204984a",
+            "name": "frame697_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame697_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "59e7aba1c6abf0dc6a69f1c33df28f0d": {
+            "format": "jpg",
+            "id": "59e7aba1c6abf0dc6a69f1c33df28f0d",
+            "name": "frame698_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame698_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1a6d2e76daad8f858fadab19bd3a0125": {
+            "format": "jpg",
+            "id": "1a6d2e76daad8f858fadab19bd3a0125",
+            "name": "frame699_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame699_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7c7916deae20e08cfd5a4b6c988a6d60": {
+            "format": "jpg",
+            "id": "7c7916deae20e08cfd5a4b6c988a6d60",
+            "name": "frame700_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame700_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "483c14aaf8103a35e3886605481f7929": {
+            "format": "jpg",
+            "id": "483c14aaf8103a35e3886605481f7929",
+            "name": "frame701_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame701_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d909f0f415b219a4e9ed08447aad4d9b": {
+            "format": "jpg",
+            "id": "d909f0f415b219a4e9ed08447aad4d9b",
+            "name": "frame702_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame702_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8716ac84bce3dc26f80b8084998a7af6": {
+            "format": "jpg",
+            "id": "8716ac84bce3dc26f80b8084998a7af6",
+            "name": "frame703_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame703_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5855ce749f95ca5c39d1f8638cca2e4a": {
+            "format": "jpg",
+            "id": "5855ce749f95ca5c39d1f8638cca2e4a",
+            "name": "frame704_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame704_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8ea40cc61562d6763c24b28ca09eb6e6": {
+            "format": "jpg",
+            "id": "8ea40cc61562d6763c24b28ca09eb6e6",
+            "name": "frame705_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame705_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ff81646817ee40c4af9aa7bc7ea8aefb": {
+            "format": "jpg",
+            "id": "ff81646817ee40c4af9aa7bc7ea8aefb",
+            "name": "frame706_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame706_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2ef5e7b893245161f9e64fbb7bd731ad": {
+            "format": "jpg",
+            "id": "2ef5e7b893245161f9e64fbb7bd731ad",
+            "name": "frame707_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame707_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9860d2e23426938d6e27aec3549aecf0": {
+            "format": "jpg",
+            "id": "9860d2e23426938d6e27aec3549aecf0",
+            "name": "frame708_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame708_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3ae31a0974dea2be0371de4657049bb6": {
+            "format": "jpg",
+            "id": "3ae31a0974dea2be0371de4657049bb6",
+            "name": "frame709_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame709_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fee378dc425a656153eb0a1a53e21230": {
+            "format": "jpg",
+            "id": "fee378dc425a656153eb0a1a53e21230",
+            "name": "frame710_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame710_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "10bd0f380447535b21d9c4cf3864e441": {
+            "format": "jpg",
+            "id": "10bd0f380447535b21d9c4cf3864e441",
+            "name": "frame711_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame711_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a0f62eaf170a29ee1a3343a52d33ee03": {
+            "format": "jpg",
+            "id": "a0f62eaf170a29ee1a3343a52d33ee03",
+            "name": "frame712_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame712_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ee87cc113c89d2acf0b251871695ab17": {
+            "format": "jpg",
+            "id": "ee87cc113c89d2acf0b251871695ab17",
+            "name": "frame713_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame713_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2f8680e4a778cd1aa40b91b4a41393a1": {
+            "format": "jpg",
+            "id": "2f8680e4a778cd1aa40b91b4a41393a1",
+            "name": "frame714_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame714_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "98174e14ac88d10e9e6d26ee4481690a": {
+            "format": "jpg",
+            "id": "98174e14ac88d10e9e6d26ee4481690a",
+            "name": "frame715_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame715_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "dad383e104c3643db07ad2c603ff6fee": {
+            "format": "jpg",
+            "id": "dad383e104c3643db07ad2c603ff6fee",
+            "name": "frame716_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame716_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "712587032f2981bd12d9b41d753ab251": {
+            "format": "jpg",
+            "id": "712587032f2981bd12d9b41d753ab251",
+            "name": "frame717_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame717_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "51815850b4d4fe0a7ad7d98829a0c91c": {
+            "format": "jpg",
+            "id": "51815850b4d4fe0a7ad7d98829a0c91c",
+            "name": "frame718_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame718_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2f7eefa3eedae9e54850b357fa94dd74": {
+            "format": "jpg",
+            "id": "2f7eefa3eedae9e54850b357fa94dd74",
+            "name": "frame719_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame719_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "25ffb2e72b277cb591eea6a57e55d7c7": {
+            "format": "jpg",
+            "id": "25ffb2e72b277cb591eea6a57e55d7c7",
+            "name": "frame720_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame720_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c69a3f8177b53eb3a2cb61d333398a1d": {
+            "format": "jpg",
+            "id": "c69a3f8177b53eb3a2cb61d333398a1d",
+            "name": "frame721_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame721_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "46a78f50d1aa7f2a70bc39b609c407b9": {
+            "format": "jpg",
+            "id": "46a78f50d1aa7f2a70bc39b609c407b9",
+            "name": "frame722_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame722_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f4f733ec605979dcd3f37b63c9d73093": {
+            "format": "jpg",
+            "id": "f4f733ec605979dcd3f37b63c9d73093",
+            "name": "frame723_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame723_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a915e51da174b004711f3a48dc312472": {
+            "format": "jpg",
+            "id": "a915e51da174b004711f3a48dc312472",
+            "name": "frame724_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame724_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6abef786b023d33ebc9c5a8e1a3be143": {
+            "format": "jpg",
+            "id": "6abef786b023d33ebc9c5a8e1a3be143",
+            "name": "frame725_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame725_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d39393ca9fc151cf336105be04a1278e": {
+            "format": "jpg",
+            "id": "d39393ca9fc151cf336105be04a1278e",
+            "name": "frame726_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame726_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0a0bb859b54ead84571c08f20867c807": {
+            "format": "jpg",
+            "id": "0a0bb859b54ead84571c08f20867c807",
+            "name": "frame727_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame727_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "339599470ece5e48a6ccaad8622d01dd": {
+            "format": "jpg",
+            "id": "339599470ece5e48a6ccaad8622d01dd",
+            "name": "frame728_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame728_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "75a27d530b1eaa7bc4a256ef75ac04ec": {
+            "format": "jpg",
+            "id": "75a27d530b1eaa7bc4a256ef75ac04ec",
+            "name": "frame729_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame729_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "595cf3db7323f27f41d97a7bb4009968": {
+            "format": "jpg",
+            "id": "595cf3db7323f27f41d97a7bb4009968",
+            "name": "frame730_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame730_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "71188154fa9add8617e60ef492cf9283": {
+            "format": "jpg",
+            "id": "71188154fa9add8617e60ef492cf9283",
+            "name": "frame731_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame731_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9954264b8b908c5408f1f3c92220ee8a": {
+            "format": "jpg",
+            "id": "9954264b8b908c5408f1f3c92220ee8a",
+            "name": "frame732_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame732_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7481f8fc4432d15de42967c6a1187ff0": {
+            "format": "jpg",
+            "id": "7481f8fc4432d15de42967c6a1187ff0",
+            "name": "frame733_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame733_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c9071a03d3f89e77795c457980c3a3c5": {
+            "format": "jpg",
+            "id": "c9071a03d3f89e77795c457980c3a3c5",
+            "name": "frame734_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame734_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c177ee6668c8ccdf7cd31ee55aae31d2": {
+            "format": "jpg",
+            "id": "c177ee6668c8ccdf7cd31ee55aae31d2",
+            "name": "frame735_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame735_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b57a2481bc977033f3e2407e402dd818": {
+            "format": "jpg",
+            "id": "b57a2481bc977033f3e2407e402dd818",
+            "name": "frame736_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame736_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "51e8af3b7e49a803bc26037d75847ba7": {
+            "format": "jpg",
+            "id": "51e8af3b7e49a803bc26037d75847ba7",
+            "name": "frame737_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame737_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e0d1fd4d178c504bb90b10ada8074f32": {
+            "format": "jpg",
+            "id": "e0d1fd4d178c504bb90b10ada8074f32",
+            "name": "frame738_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame738_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e22d203043d317ba3529a728e4fcba8e": {
+            "format": "jpg",
+            "id": "e22d203043d317ba3529a728e4fcba8e",
+            "name": "frame739_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame739_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c4d204376e9bd8c579d0622697b224da": {
+            "format": "jpg",
+            "id": "c4d204376e9bd8c579d0622697b224da",
+            "name": "frame740_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame740_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e5843925512e785df722ba58c7580b5a": {
+            "format": "jpg",
+            "id": "e5843925512e785df722ba58c7580b5a",
+            "name": "frame741_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame741_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fdaf59661190c2cce6fb47d6b3a907aa": {
+            "format": "jpg",
+            "id": "fdaf59661190c2cce6fb47d6b3a907aa",
+            "name": "frame742_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame742_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c5f33ffe4a9fa274e684ee73408614f7": {
+            "format": "jpg",
+            "id": "c5f33ffe4a9fa274e684ee73408614f7",
+            "name": "frame743_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame743_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "733576daf0476334b2503d07c6444eba": {
+            "format": "jpg",
+            "id": "733576daf0476334b2503d07c6444eba",
+            "name": "frame744_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame744_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "56312cf2d1adad76f74af6437da6e36f": {
+            "format": "jpg",
+            "id": "56312cf2d1adad76f74af6437da6e36f",
+            "name": "frame745_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame745_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "246a30ca2eabb0e2e53df202e6f0bca0": {
+            "format": "jpg",
+            "id": "246a30ca2eabb0e2e53df202e6f0bca0",
+            "name": "frame746_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame746_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8dffc70ce87350bcf81daaa38c7a9e9e": {
+            "format": "jpg",
+            "id": "8dffc70ce87350bcf81daaa38c7a9e9e",
+            "name": "frame747_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame747_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "01164002a1ec277a04ca49f65b4926d5": {
+            "format": "jpg",
+            "id": "01164002a1ec277a04ca49f65b4926d5",
+            "name": "frame748_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame748_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "659cc79a524821782d8acdb2c8df3084": {
+            "format": "jpg",
+            "id": "659cc79a524821782d8acdb2c8df3084",
+            "name": "frame749_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame749_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1f4c5f015932eaf98bd933977b1ede72": {
+            "format": "jpg",
+            "id": "1f4c5f015932eaf98bd933977b1ede72",
+            "name": "frame750_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame750_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3d4ee85647c95507c16478f72b055164": {
+            "format": "jpg",
+            "id": "3d4ee85647c95507c16478f72b055164",
+            "name": "frame751_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame751_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3baad1648041b4aaaad3bcacce94d1fd": {
+            "format": "jpg",
+            "id": "3baad1648041b4aaaad3bcacce94d1fd",
+            "name": "frame752_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame752_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ec04769030298625317e4117af7ccdc5": {
+            "format": "jpg",
+            "id": "ec04769030298625317e4117af7ccdc5",
+            "name": "frame753_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame753_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9a5b6a01cbee4ad14da828237524d944": {
+            "format": "jpg",
+            "id": "9a5b6a01cbee4ad14da828237524d944",
+            "name": "frame754_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame754_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f860a28cc6f5e83b48fd5d1e01ed2302": {
+            "format": "jpg",
+            "id": "f860a28cc6f5e83b48fd5d1e01ed2302",
+            "name": "frame755_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame755_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "86cc0561b9613f1e1ea93636f8f96e91": {
+            "format": "jpg",
+            "id": "86cc0561b9613f1e1ea93636f8f96e91",
+            "name": "frame756_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame756_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ffd18ac3a562c8280c977724b2097962": {
+            "format": "jpg",
+            "id": "ffd18ac3a562c8280c977724b2097962",
+            "name": "frame757_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame757_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "22db00a2ee5dca8c802a78ec11882d48": {
+            "format": "jpg",
+            "id": "22db00a2ee5dca8c802a78ec11882d48",
+            "name": "frame758_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame758_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "418add7fec9a1dff0510cfce47c64526": {
+            "format": "jpg",
+            "id": "418add7fec9a1dff0510cfce47c64526",
+            "name": "frame759_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame759_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e20d048f031df2d9fd09e2f2d68a56ab": {
+            "format": "jpg",
+            "id": "e20d048f031df2d9fd09e2f2d68a56ab",
+            "name": "frame760_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame760_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ec92c0cafaf3e4edd0a7868194c3adef": {
+            "format": "jpg",
+            "id": "ec92c0cafaf3e4edd0a7868194c3adef",
+            "name": "frame761_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame761_canny.jpg",
+            "size": {
+                "width": 1920,
+                "height": 1080
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2be5d8b6a85e9d432ec4648dd3a4aa60": {
+            "format": "jpg",
+            "id": "2be5d8b6a85e9d432ec4648dd3a4aa60",
+            "name": "frame762_canny.jpg",
+            "path": "file:C:/Users/jonas/Documents/GitHub/DLC_G3/goal-detection/SourceFiles/Images/doelpunten_cam_4/result/frame762_canny.jpg",
             "size": {
                 "width": 1920,
                 "height": 1080
