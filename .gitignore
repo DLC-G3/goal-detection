@@ -1,3 +1,4 @@
 SourceFiles/*
 SourceFiles/Images/*
-DestinationFiles/*.json
+DestinationFiles/vott-json-export
+DestinationFiles/vott-csv-export
