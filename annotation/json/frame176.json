@@ -1,0 +1,121 @@
+{
+    "filename": "frame176",
+    "file": "frame176.jpg",
+    "annotations": [
+        [
+            {
+                "original_width": 1920,
+                "original_height": 1080,
+                "image_rotation": 0,
+                "value": {
+                    "points": [
+                        [
+                            34.719401456440856,
+                            11.861454851458268
+                        ],
+                        [
+                            34.90015436407672,
+                            11.75948439731781
+                        ],
+                        [
+                            34.99037926154776,
+                            11.49668816979023
+                        ],
+                        [
+                            35.03640452377401,
+                            11.058352339063848
+                        ],
+                        [
+                            35.018323170756545,
+                            10.82165099047161
+                        ],
+                        [
+                            34.91476633074744,
+                            10.660927852538606
+                        ],
+                        [
+                            34.71842454500201,
+                            10.50312695347711
+                        ],
+                        [
+                            34.45956623165796,
+                            10.564904511595294
+                        ],
+                        [
+                            34.31661978942222,
+                            10.710708548808382
+                        ],
+                        [
+                            34.23753747227521,
+                            10.877173529030285
+                        ],
+                        [
+                            34.23918123164042,
+                            11.204464282639314
+                        ],
+                        [
+                            34.33616303418863,
+                            11.601888769164555
+                        ],
+                        [
+                            34.43478859610207,
+                            11.78306757919813
+                        ],
+                        [
+                            34.60409581072014,
+                            11.873656984214911
+                        ]
+                    ],
+                    "polygonlabels": [
+                        "Bal"
+                    ]
+                },
+                "id": "I5uMHPyhPA",
+                "from_name": "polylabels",
+                "to_name": "image",
+                "type": "polygonlabels",
+                "origin": "manual"
+            },
+            {
+                "original_width": 1920,
+                "original_height": 1080,
+                "image_rotation": 0,
+                "value": {
+                    "x": 32.201219512195124,
+                    "y": 4.066847335140018,
+                    "width": 5.980691056910569,
+                    "height": 3.9918699186991864,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "id": "MDliu5DnkO",
+                "from_name": "rectlabels",
+                "to_name": "image",
+                "type": "rectanglelabels",
+                "origin": "manual"
+            },
+            {
+                "original_width": 1920,
+                "original_height": 1080,
+                "image_rotation": 0,
+                "value": {
+                    "x": 33.529411764705785,
+                    "y": 4.409889741452102e-16,
+                    "width": 2.483660130718952,
+                    "height": 3.989719940902241,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "id": "oEyY0g09h3",
+                "from_name": "rectlabels",
+                "to_name": "image",
+                "type": "rectanglelabels",
+                "origin": "manual"
+            }
+        ]
+    ]
+}

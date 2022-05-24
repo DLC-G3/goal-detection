@@ -1,0 +1,88 @@
+{
+    "filename": "frame200",
+    "file": "frame200.jpg",
+    "annotations": [
+        [
+            {
+                "original_width": 1920,
+                "original_height": 1080,
+                "image_rotation": 0,
+                "value": {
+                    "x": 19.45516817787923,
+                    "y": 12.683831651851293,
+                    "width": 4.767788730632801,
+                    "height": 9.165981435635144,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "id": "tUS627FPiT",
+                "from_name": "rectlabels",
+                "to_name": "image",
+                "type": "rectanglelabels",
+                "origin": "manual"
+            },
+            {
+                "original_width": 1920,
+                "original_height": 1080,
+                "image_rotation": 0,
+                "value": {
+                    "x": 49.44788565779021,
+                    "y": 4.829388068237872,
+                    "width": 3.1046066152957703,
+                    "height": 11.334278119333781,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "id": "zYGZmaD4ak",
+                "from_name": "rectlabels",
+                "to_name": "image",
+                "type": "rectanglelabels",
+                "origin": "manual"
+            },
+            {
+                "original_width": 1920,
+                "original_height": 1080,
+                "image_rotation": 0,
+                "value": {
+                    "x": 30.06845157241515,
+                    "y": 2.3180406398017657,
+                    "width": 2.596711279314273,
+                    "height": 5.118838258844764,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "id": "GQ825aBmpP",
+                "from_name": "rectlabels",
+                "to_name": "image",
+                "type": "rectanglelabels",
+                "origin": "manual"
+            },
+            {
+                "original_width": 1920,
+                "original_height": 1080,
+                "image_rotation": 0,
+                "value": {
+                    "x": 47.09722485989106,
+                    "y": 0.28263524128590717,
+                    "width": 2.0491054993228324,
+                    "height": 1.947042773302916,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "id": "QWEN3atvpp",
+                "from_name": "rectlabels",
+                "to_name": "image",
+                "type": "rectanglelabels",
+                "origin": "manual"
+            }
+        ]
+    ]
+}

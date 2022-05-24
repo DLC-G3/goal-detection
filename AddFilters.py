@@ -81,7 +81,7 @@ class ImageIterator():
         for image in image_list:
             cv2.imwrite(f"{self.destination_path}{image['name']}.jpg", image['img'])
 
-
+        print("Image processed!")
 
 def create_files_list(files):
     filesObj = [(file , files.index(file), len(files)) for file in files]
@@ -90,9 +90,6 @@ def create_files_list(files):
 
 if __name__ == '__main__':
     ii = ImageIterator()
-    
-    start_time = time.time()
-    filesObj = create_files_list( glob.glob(path + '*.*'))
-    print(f"Time: {time.time() - start_time} s")
+    filesObj = create_files_list(glob.glob(path + '*.*'))
     with Pool(10) as p:
         p.map(ii.files_to_queue, filesObj)

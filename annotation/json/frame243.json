@@ -1,0 +1,129 @@
+{
+    "filename": "frame243",
+    "file": "frame243.jpg",
+    "annotations": [
+        [
+            {
+                "original_width": 1920,
+                "original_height": 1080,
+                "image_rotation": 0,
+                "value": {
+                    "x": 29.875688045873144,
+                    "y": 0.5280742728327353,
+                    "width": 2.138429910356517,
+                    "height": 6.09571038531236,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "id": "2NPwhCcO19",
+                "from_name": "rectlabels",
+                "to_name": "image",
+                "type": "rectanglelabels",
+                "origin": "manual"
+            },
+            {
+                "original_width": 1920,
+                "original_height": 1080,
+                "image_rotation": 0,
+                "value": {
+                    "x": 58.72978297377307,
+                    "y": 10.415944004107569,
+                    "width": 2.1801065443540977,
+                    "height": 12.888084945590357,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "id": "AvJZIHCXTk",
+                "from_name": "rectlabels",
+                "to_name": "image",
+                "type": "rectanglelabels",
+                "origin": "manual"
+            },
+            {
+                "original_width": 1920,
+                "original_height": 1080,
+                "image_rotation": 0,
+                "value": {
+                    "x": 48.62850729517396,
+                    "y": 0,
+                    "width": 1.7721661054994389,
+                    "height": 3.684630738522954,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "id": "tU_0hwb4Wr",
+                "from_name": "rectlabels",
+                "to_name": "image",
+                "type": "rectanglelabels",
+                "origin": "manual"
+            },
+            {
+                "original_width": 1920,
+                "original_height": 1080,
+                "image_rotation": 0,
+                "value": {
+                    "points": [
+                        [
+                            46.62659262088889,
+                            87.76024158124768
+                        ],
+                        [
+                            46.660419483985855,
+                            86.71175350814634
+                        ],
+                        [
+                            47.08083906819101,
+                            86.11875615532671
+                        ],
+                        [
+                            47.38528083606371,
+                            85.83514872571733
+                        ],
+                        [
+                            48.27927740403577,
+                            86.19610738498474
+                        ],
+                        [
+                            48.40491913798656,
+                            87.0383317604238
+                        ],
+                        [
+                            48.525729363332864,
+                            87.72586492311322
+                        ],
+                        [
+                            48.29377373066795,
+                            88.5509047183405
+                        ],
+                        [
+                            47.98933196279525,
+                            89.01498960315585
+                        ],
+                        [
+                            47.40461047211912,
+                            88.95483045142055
+                        ],
+                        [
+                            46.97452606988626,
+                            88.43918057940348
+                        ]
+                    ],
+                    "polygonlabels": [
+                        "Bal"
+                    ]
+                },
+                "id": "lH0Op5Gpau",
+                "from_name": "polylabels",
+                "to_name": "image",
+                "type": "polygonlabels",
+                "origin": "manual"
+            }
+        ]
+    ]
+}

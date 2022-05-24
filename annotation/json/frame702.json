@@ -1,0 +1,201 @@
+{
+    "filename": "frame702",
+    "file": "frame702.jpg",
+    "annotations": [
+        [
+            {
+                "original_width": 1920,
+                "original_height": 1080,
+                "image_rotation": 0,
+                "value": {
+                    "x": 3.828740924149137,
+                    "y": 23.2537778951966,
+                    "width": 2.532446995966889,
+                    "height": 10.410987839056277,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "id": "dzl39jRaEu",
+                "from_name": "rectlabels",
+                "to_name": "image",
+                "type": "rectanglelabels",
+                "origin": "manual"
+            },
+            {
+                "original_width": 1920,
+                "original_height": 1080,
+                "image_rotation": 0,
+                "value": {
+                    "x": 6.56304963718585,
+                    "y": 19.990145343768297,
+                    "width": 3.8720747547029974,
+                    "height": 10.410987839056277,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "id": "I5fxqsjKq2",
+                "from_name": "rectlabels",
+                "to_name": "image",
+                "type": "rectanglelabels",
+                "origin": "manual"
+            },
+            {
+                "original_width": 1920,
+                "original_height": 1080,
+                "image_rotation": 0,
+                "value": {
+                    "x": 14.43523900674711,
+                    "y": 6.692245216589397,
+                    "width": 2.8828256220737276,
+                    "height": 9.050166080731433,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "id": "vxRuOUecam",
+                "from_name": "rectlabels",
+                "to_name": "image",
+                "type": "rectanglelabels",
+                "origin": "manual"
+            },
+            {
+                "original_width": 1920,
+                "original_height": 1080,
+                "image_rotation": 0,
+                "value": {
+                    "x": 15.557008895724794,
+                    "y": 29.458135549484755,
+                    "width": 4.505890351459587,
+                    "height": 13.22858484705672,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "id": "-cLE_lvi0n",
+                "from_name": "rectlabels",
+                "to_name": "image",
+                "type": "rectanglelabels",
+                "origin": "manual"
+            },
+            {
+                "original_width": 1920,
+                "original_height": 1080,
+                "image_rotation": 0,
+                "value": {
+                    "x": 12.73188716742871,
+                    "y": 36.00882900740227,
+                    "width": 5.829048629269148,
+                    "height": 9.985037600903384,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "id": "OYStTd98iX",
+                "from_name": "rectlabels",
+                "to_name": "image",
+                "type": "rectanglelabels",
+                "origin": "manual"
+            },
+            {
+                "original_width": 1920,
+                "original_height": 1080,
+                "image_rotation": 0,
+                "value": {
+                    "x": 45.541038801743824,
+                    "y": 20.668170297164952,
+                    "width": 3.382993867048228,
+                    "height": 13.781895847871109,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "id": "Sbo89PbjHl",
+                "from_name": "rectlabels",
+                "to_name": "image",
+                "type": "rectanglelabels",
+                "origin": "manual"
+            },
+            {
+                "original_width": 1920,
+                "original_height": 1080,
+                "image_rotation": 0,
+                "value": {
+                    "x": 73.12552120130476,
+                    "y": 6.553344498848613,
+                    "width": 2.1249982955940454,
+                    "height": 10.642542568580119,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "id": "TEcoF3dkUL",
+                "from_name": "rectlabels",
+                "to_name": "image",
+                "type": "rectanglelabels",
+                "origin": "manual"
+            },
+            {
+                "original_width": 1920,
+                "original_height": 1080,
+                "image_rotation": 0,
+                "value": {
+                    "points": [
+                        [
+                            5.3892003817133025,
+                            34.80187263460493
+                        ],
+                        [
+                            5.232226655386654,
+                            34.36504961913159
+                        ],
+                        [
+                            5.28251523444248,
+                            33.79613400730862
+                        ],
+                        [
+                            5.56564886386111,
+                            33.46917582549207
+                        ],
+                        [
+                            5.817786873282292,
+                            33.580912981194246
+                        ],
+                        [
+                            5.953405440464625,
+                            33.809714286809594
+                        ],
+                        [
+                            6.0129488316166855,
+                            34.18654808691882
+                        ],
+                        [
+                            5.905117333591781,
+                            34.761882057796626
+                        ],
+                        [
+                            5.629545045537408,
+                            34.96074525431749
+                        ]
+                    ],
+                    "polygonlabels": [
+                        "Bal"
+                    ]
+                },
+                "id": "ZyaniNdzJR",
+                "from_name": "polylabels",
+                "to_name": "image",
+                "type": "polygonlabels",
+                "origin": "manual"
+            }
+        ]
+    ]
+}

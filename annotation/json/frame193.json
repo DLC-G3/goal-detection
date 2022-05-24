@@ -1,0 +1,157 @@
+{
+    "filename": "frame193",
+    "file": "frame193.jpg",
+    "annotations": [
+        [
+            {
+                "original_width": 1920,
+                "original_height": 1080,
+                "image_rotation": 0,
+                "value": {
+                    "points": [
+                        [
+                            47.42264662198835,
+                            95.40031509642944
+                        ],
+                        [
+                            47.78283188772956,
+                            95.3898137881831
+                        ],
+                        [
+                            48.10168441805785,
+                            95.22179285624168
+                        ],
+                        [
+                            48.32606212458517,
+                            94.84374575937353
+                        ],
+                        [
+                            48.42053694838614,
+                            94.38168819653467
+                        ],
+                        [
+                            48.43825097784881,
+                            93.7831136264934
+                        ],
+                        [
+                            48.373299493370084,
+                            93.17403711366883
+                        ],
+                        [
+                            48.23749197727176,
+                            92.86949980906202
+                        ],
+                        [
+                            48.066256359132495,
+                            92.53345794517918
+                        ],
+                        [
+                            47.895020740993225,
+                            92.34443439674506
+                        ],
+                        [
+                            47.47578871037639,
+                            92.34443439674506
+                        ],
+                        [
+                            47.13922215058543,
+                            92.53345794517918
+                        ],
+                        [
+                            46.84398832620738,
+                            93.02701943275706
+                        ],
+                        [
+                            46.67865738455566,
+                            93.64659661929102
+                        ],
+                        [
+                            46.71999011996862,
+                            94.25567249757863
+                        ],
+                        [
+                            46.796750914306905,
+                            94.62321828620044
+                        ],
+                        [
+                            47.02703329732178,
+                            95.12728108202464
+                        ],
+                        [
+                            47.269125033311774,
+                            95.30580332221238
+                        ]
+                    ],
+                    "polygonlabels": [
+                        "Bal"
+                    ]
+                },
+                "id": "s8FsUZCUJk",
+                "from_name": "polylabels",
+                "to_name": "image",
+                "type": "polygonlabels",
+                "origin": "manual"
+            },
+            {
+                "original_width": 1920,
+                "original_height": 1080,
+                "image_rotation": 0,
+                "value": {
+                    "x": 24.615121516082468,
+                    "y": 5.969123020188766,
+                    "width": 4.080708470096399,
+                    "height": 9.24840663644828,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "id": "mjUCQGXin1",
+                "from_name": "rectlabels",
+                "to_name": "image",
+                "type": "rectanglelabels",
+                "origin": "manual"
+            },
+            {
+                "original_width": 1920,
+                "original_height": 1080,
+                "image_rotation": 0,
+                "value": {
+                    "x": 31.060689539633213,
+                    "y": 3.2961577332364236,
+                    "width": 2.4906766653322925,
+                    "height": 5.828422932345009,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "id": "973cIH0QBd",
+                "from_name": "rectlabels",
+                "to_name": "image",
+                "type": "rectanglelabels",
+                "origin": "manual"
+            },
+            {
+                "original_width": 1920,
+                "original_height": 1080,
+                "image_rotation": 0,
+                "value": {
+                    "x": 50.37435771642045,
+                    "y": 1.8169250527385588,
+                    "width": 2.4480420483632312,
+                    "height": 9.56131248001628,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "id": "7lsWFPKOAZ",
+                "from_name": "rectlabels",
+                "to_name": "image",
+                "type": "rectanglelabels",
+                "origin": "manual"
+            }
+        ]
+    ]
+}

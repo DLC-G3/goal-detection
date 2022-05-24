@@ -1,0 +1,233 @@
+{
+    "filename": "frame707",
+    "file": "frame707.jpg",
+    "annotations": [
+        [
+            {
+                "original_width": 1920,
+                "original_height": 1080,
+                "image_rotation": 0,
+                "value": {
+                    "x": 5.899241977781027,
+                    "y": 22.714449822086806,
+                    "width": 2.2855417552533845,
+                    "height": 9.375526238648568,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "id": "A1UEOAgb1h",
+                "from_name": "rectlabels",
+                "to_name": "image",
+                "type": "rectanglelabels",
+                "origin": "manual"
+            },
+            {
+                "original_width": 1920,
+                "original_height": 1080,
+                "image_rotation": 0,
+                "value": {
+                    "x": 4.364425616588973,
+                    "y": 25.53304157104761,
+                    "width": 2.535783553273828,
+                    "height": 10.621640485557556,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "id": "FkoW9fO7K4",
+                "from_name": "rectlabels",
+                "to_name": "image",
+                "type": "rectanglelabels",
+                "origin": "manual"
+            },
+            {
+                "original_width": 1920,
+                "original_height": 1080,
+                "image_rotation": 0,
+                "value": {
+                    "x": 13.7003367003367,
+                    "y": 7.375249500998005,
+                    "width": 2.4433221099887765,
+                    "height": 10.121756487025948,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "id": "2eJENCWDaW",
+                "from_name": "rectlabels",
+                "to_name": "image",
+                "type": "rectanglelabels",
+                "origin": "manual"
+            },
+            {
+                "original_width": 1920,
+                "original_height": 1080,
+                "image_rotation": 0,
+                "value": {
+                    "x": 48.07043045182169,
+                    "y": 23.697117234568303,
+                    "width": 3.8420946195050916,
+                    "height": 14.664554880518214,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "id": "P4Hot8y4uL",
+                "from_name": "rectlabels",
+                "to_name": "image",
+                "type": "rectanglelabels",
+                "origin": "manual"
+            },
+            {
+                "original_width": 1920,
+                "original_height": 1080,
+                "image_rotation": 0,
+                "value": {
+                    "x": 73.0289531165401,
+                    "y": 7.487164496817905,
+                    "width": 2.49870489240541,
+                    "height": 11.659013981252668,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "id": "66WN_ksmAH",
+                "from_name": "rectlabels",
+                "to_name": "image",
+                "type": "rectanglelabels",
+                "origin": "manual"
+            },
+            {
+                "original_width": 1920,
+                "original_height": 1080,
+                "image_rotation": 0,
+                "value": {
+                    "x": 79.17409680966259,
+                    "y": 1.73792305638961,
+                    "width": 2.403217909885382,
+                    "height": 8.179525586949389,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "id": "pgFJNxfqG4",
+                "from_name": "rectlabels",
+                "to_name": "image",
+                "type": "rectanglelabels",
+                "origin": "manual"
+            },
+            {
+                "original_width": 1920,
+                "original_height": 1080,
+                "image_rotation": 0,
+                "value": {
+                    "x": 13.313596044930106,
+                    "y": 33.66512321262972,
+                    "width": 3.272985880570136,
+                    "height": 16.072411226018954,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "id": "pvXq0oXNNG",
+                "from_name": "rectlabels",
+                "to_name": "image",
+                "type": "rectanglelabels",
+                "origin": "manual"
+            },
+            {
+                "original_width": 1920,
+                "original_height": 1080,
+                "image_rotation": 0,
+                "value": {
+                    "x": 8.379691956309458,
+                    "y": 38.22621288487834,
+                    "width": 5.080455695213344,
+                    "height": 8.644350902642623,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "id": "nUzXd6D1_L",
+                "from_name": "rectlabels",
+                "to_name": "image",
+                "type": "rectanglelabels",
+                "origin": "manual"
+            },
+            {
+                "original_width": 1920,
+                "original_height": 1080,
+                "image_rotation": 0,
+                "value": {
+                    "points": [
+                        [
+                            9.807225543596237,
+                            49.13839100065023
+                        ],
+                        [
+                            9.79166025751444,
+                            48.723161362959125
+                        ],
+                        [
+                            10.149661837395808,
+                            48.01727097888426
+                        ],
+                        [
+                            10.414271700786387,
+                            47.93422505134605
+                        ],
+                        [
+                            10.624403062890671,
+                            48.114157894345524
+                        ],
+                        [
+                            10.795621209790456,
+                            48.43250061657536
+                        ],
+                        [
+                            10.811186495872255,
+                            48.83388926634342
+                        ],
+                        [
+                            10.842317068035852,
+                            49.40136977118792
+                        ],
+                        [
+                            10.60883777680887,
+                            49.81659940887903
+                        ],
+                        [
+                            10.165227123477608,
+                            49.81659940887903
+                        ],
+                        [
+                            9.877269330964332,
+                            49.56746162626436
+                        ],
+                        [
+                            9.79166025751444,
+                            49.373687795341844
+                        ]
+                    ],
+                    "polygonlabels": [
+                        "Bal"
+                    ]
+                },
+                "id": "tXJow-y38F",
+                "from_name": "polylabels",
+                "to_name": "image",
+                "type": "polygonlabels",
+                "origin": "manual"
+            }
+        ]
+    ]
+}

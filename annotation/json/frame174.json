@@ -1,0 +1,117 @@
+{
+    "filename": "frame174",
+    "file": "frame174.jpg",
+    "annotations": [
+        [
+            {
+                "original_width": 1920,
+                "original_height": 1080,
+                "image_rotation": 0,
+                "value": {
+                    "points": [
+                        [
+                            34.95025425978564,
+                            6.6126944438166175
+                        ],
+                        [
+                            34.99046659086291,
+                            6.237379353762162
+                        ],
+                        [
+                            34.920095011477706,
+                            6.076530029453108
+                        ],
+                        [
+                            34.729086438860705,
+                            5.790575675125904
+                        ],
+                        [
+                            34.56823711455165,
+                            5.719087086544099
+                        ],
+                        [
+                            34.38728162470397,
+                            5.736959233689552
+                        ],
+                        [
+                            34.29680387978012,
+                            5.879936410853156
+                        ],
+                        [
+                            34.26664463147217,
+                            6.022913588016756
+                        ],
+                        [
+                            34.246538465933526,
+                            6.237379353762162
+                        ],
+                        [
+                            34.22643230039492,
+                            6.451845119507569
+                        ],
+                        [
+                            34.25659154870285,
+                            6.559078002380265
+                        ],
+                        [
+                            34.4174408730119,
+                            6.6663108852529716
+                        ],
+                        [
+                            34.79945801824591,
+                            6.737799473834764
+                        ]
+                    ],
+                    "polygonlabels": [
+                        "Bal"
+                    ]
+                },
+                "id": "W4PPz4PHgA",
+                "from_name": "polylabels",
+                "to_name": "image",
+                "type": "polygonlabels",
+                "origin": "manual"
+            },
+            {
+                "original_width": 1920,
+                "original_height": 1080,
+                "image_rotation": 0,
+                "value": {
+                    "x": 33.100628930817614,
+                    "y": 3.001597444089457,
+                    "width": 5.288858939802337,
+                    "height": 5.628594249201277,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "id": "pEPS7pepvG",
+                "from_name": "rectlabels",
+                "to_name": "image",
+                "type": "rectanglelabels",
+                "origin": "manual"
+            },
+            {
+                "original_width": 1920,
+                "original_height": 1080,
+                "image_rotation": 0,
+                "value": {
+                    "x": 33.81385056609777,
+                    "y": 0.11459024893706445,
+                    "width": 2.4579632607913924,
+                    "height": 2.347913288186238,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "id": "PCetsh-g-D",
+                "from_name": "rectlabels",
+                "to_name": "image",
+                "type": "rectanglelabels",
+                "origin": "manual"
+            }
+        ]
+    ]
+}

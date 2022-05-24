@@ -1,0 +1,229 @@
+{
+    "filename": "frame693",
+    "file": "frame693.jpg",
+    "annotations": [
+        [
+            {
+                "original_width": 1920,
+                "original_height": 1080,
+                "image_rotation": 0,
+                "value": {
+                    "points": [
+                        [
+                            8.297322514688114,
+                            34.50550409092451
+                        ],
+                        [
+                            8.309721464268462,
+                            34.03802656914186
+                        ],
+                        [
+                            8.555220665959348,
+                            33.68521334515496
+                        ],
+                        [
+                            8.937108313034066,
+                            33.680803179855126
+                        ],
+                        [
+                            9.080936128166103,
+                            34.00715541204301
+                        ],
+                        [
+                            9.128052136571425,
+                            34.44376177672681
+                        ],
+                        [
+                            9.006542430684018,
+                            34.831856323112405
+                        ],
+                        [
+                            8.91974978362158,
+                            35.03031376160504
+                        ],
+                        [
+                            8.73624532983243,
+                            35.13174756350128
+                        ],
+                        [
+                            8.473387598729058,
+                            34.97298161270717
+                        ],
+                        [
+                            8.32955978359702,
+                            34.655449711118955
+                        ]
+                    ],
+                    "polygonlabels": [
+                        "Bal"
+                    ]
+                },
+                "id": "ZbCMrdT8i7",
+                "from_name": "polylabels",
+                "to_name": "image",
+                "type": "polygonlabels",
+                "origin": "manual"
+            },
+            {
+                "original_width": 1920,
+                "original_height": 1080,
+                "image_rotation": 0,
+                "value": {
+                    "x": 19.075061353289318,
+                    "y": 36.79171317671439,
+                    "width": 7.903188632321976,
+                    "height": 13.35578277827842,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "id": "LNAjJOlRnK",
+                "from_name": "rectlabels",
+                "to_name": "image",
+                "type": "rectanglelabels",
+                "origin": "manual"
+            },
+            {
+                "original_width": 1920,
+                "original_height": 1080,
+                "image_rotation": 0,
+                "value": {
+                    "x": 3.213938062697899,
+                    "y": 18.503904729983816,
+                    "width": 3.126434273977442,
+                    "height": 8.079644562268985,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "id": "FYopStkFHp",
+                "from_name": "rectlabels",
+                "to_name": "image",
+                "type": "rectanglelabels",
+                "origin": "manual"
+            },
+            {
+                "original_width": 1920,
+                "original_height": 1080,
+                "image_rotation": 0,
+                "value": {
+                    "x": 9.118967452300785,
+                    "y": 13.10179640718563,
+                    "width": 2.88327721661055,
+                    "height": 7.03193612774451,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "id": "0kqtELC3P3",
+                "from_name": "rectlabels",
+                "to_name": "image",
+                "type": "rectanglelabels",
+                "origin": "manual"
+            },
+            {
+                "original_width": 1920,
+                "original_height": 1080,
+                "image_rotation": 0,
+                "value": {
+                    "x": 16.06238246173511,
+                    "y": 4.564551290633826,
+                    "width": 2.15083859455588,
+                    "height": 7.307006012964938,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "id": "ibHC-Inl_V",
+                "from_name": "rectlabels",
+                "to_name": "image",
+                "type": "rectanglelabels",
+                "origin": "manual"
+            },
+            {
+                "original_width": 1920,
+                "original_height": 1080,
+                "image_rotation": 0,
+                "value": {
+                    "x": 20.393550109159893,
+                    "y": 22.284047526740785,
+                    "width": 5.551197219420175,
+                    "height": 13.466074270448308,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "id": "a06EVJ577w",
+                "from_name": "rectlabels",
+                "to_name": "image",
+                "type": "rectanglelabels",
+                "origin": "manual"
+            },
+            {
+                "original_width": 1920,
+                "original_height": 1080,
+                "image_rotation": 0,
+                "value": {
+                    "x": 40.54629396174235,
+                    "y": 17.8746810842421,
+                    "width": 5.239219935688762,
+                    "height": 13.188064995187446,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "id": "0XAKxR_U6Y",
+                "from_name": "rectlabels",
+                "to_name": "image",
+                "type": "rectanglelabels",
+                "origin": "manual"
+            },
+            {
+                "original_width": 1920,
+                "original_height": 1080,
+                "image_rotation": 0,
+                "value": {
+                    "x": 73.1490092300922,
+                    "y": 4.834532992950597,
+                    "width": 2.4449693033214146,
+                    "height": 10.416660032430663,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "id": "Xmpa-dNpsq",
+                "from_name": "rectlabels",
+                "to_name": "image",
+                "type": "rectanglelabels",
+                "origin": "manual"
+            },
+            {
+                "original_width": 1920,
+                "original_height": 1080,
+                "image_rotation": 0,
+                "value": {
+                    "x": 79.47910901442124,
+                    "y": 0,
+                    "width": 2.2526965010267257,
+                    "height": 6.734950810674764,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "id": "NX-weUbnRy",
+                "from_name": "rectlabels",
+                "to_name": "image",
+                "type": "rectanglelabels",
+                "origin": "manual"
+            }
+        ]
+    ]
+}

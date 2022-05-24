@@ -1,0 +1,169 @@
+{
+    "filename": "frame215",
+    "file": "frame215.jpg",
+    "annotations": [
+        [
+            {
+                "original_width": 1920,
+                "original_height": 1080,
+                "image_rotation": 0,
+                "value": {
+                    "points": [
+                        [
+                            51.67862855059169,
+                            97.48773862687085
+                        ],
+                        [
+                            52.16745550389985,
+                            97.48773862687085
+                        ],
+                        [
+                            52.530942212770015,
+                            97.39857442903113
+                        ],
+                        [
+                            52.84429282386499,
+                            96.81900714307295
+                        ],
+                        [
+                            53.08243928829717,
+                            96.21714880765487
+                        ],
+                        [
+                            53.12004136162855,
+                            95.30321577979774
+                        ],
+                        [
+                            52.957099043859166,
+                            94.65677534545978
+                        ],
+                        [
+                            52.76908867720219,
+                            93.96575281220197
+                        ],
+                        [
+                            52.26772769945024,
+                            93.60909602084308
+                        ],
+                        [
+                            51.6660945261479,
+                            93.47534972408351
+                        ],
+                        [
+                            51.15219952395215,
+                            93.9880438616619
+                        ],
+                        [
+                            50.83884891285717,
+                            94.70135744437962
+                        ],
+                        [
+                            50.83884891285717,
+                            95.90507411521584
+                        ],
+                        [
+                            50.93912110840756,
+                            96.44005930225414
+                        ],
+                        [
+                            51.21561314390157,
+                            96.99747701008891
+                        ],
+                        [
+                            51.38084340684331,
+                            97.22491249085543
+                        ]
+                    ],
+                    "polygonlabels": [
+                        "Bal"
+                    ]
+                },
+                "id": "w6TX40wiFh",
+                "from_name": "polylabels",
+                "to_name": "image",
+                "type": "polygonlabels",
+                "origin": "manual"
+            },
+            {
+                "original_width": 1920,
+                "original_height": 1080,
+                "image_rotation": 0,
+                "value": {
+                    "x": 5.795663263989049,
+                    "y": 26.418158539392252,
+                    "width": 5.695972442902651,
+                    "height": 9.938831590576049,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "id": "RkLkumtdqD",
+                "from_name": "rectlabels",
+                "to_name": "image",
+                "type": "rectanglelabels",
+                "origin": "manual"
+            },
+            {
+                "original_width": 1920,
+                "original_height": 1080,
+                "image_rotation": 0,
+                "value": {
+                    "x": 52.56970980765675,
+                    "y": 8.049678417627854,
+                    "width": 2.0650453656243015,
+                    "height": 13.308114454959183,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "id": "rJHoZCA2cF",
+                "from_name": "rectlabels",
+                "to_name": "image",
+                "type": "rectanglelabels",
+                "origin": "manual"
+            },
+            {
+                "original_width": 1920,
+                "original_height": 1080,
+                "image_rotation": 0,
+                "value": {
+                    "x": 48.20246347782044,
+                    "y": 0,
+                    "width": 0.9246633270670375,
+                    "height": 3.6197896880402194,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "id": "xYVIl12S-j",
+                "from_name": "rectlabels",
+                "to_name": "image",
+                "type": "rectanglelabels",
+                "origin": "manual"
+            },
+            {
+                "original_width": 1920,
+                "original_height": 1080,
+                "image_rotation": 0,
+                "value": {
+                    "x": 29.935778288356506,
+                    "y": 0.391635906171396,
+                    "width": 1.9635639751337455,
+                    "height": 6.135629196685204,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "id": "f5zEZL1PXk",
+                "from_name": "rectlabels",
+                "to_name": "image",
+                "type": "rectanglelabels",
+                "origin": "manual"
+            }
+        ]
+    ]
+}
