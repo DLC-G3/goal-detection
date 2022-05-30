@@ -1,0 +1,68 @@
+{
+    "filename": "1frame5095",
+    "file": "1frame5095.jpg",
+    "annotations": [
+        [
+            {
+                "id": "VlFC0uWtsy",
+                "type": "rectanglelabels",
+                "value": {
+                    "x": 15.792379900607402,
+                    "y": 1.8645731108930328,
+                    "width": 2.319160684704583,
+                    "height": 7.360157016683022,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "origin": "manual",
+                "to_name": "image",
+                "from_name": "rectlabels",
+                "image_rotation": 0,
+                "original_width": 1920,
+                "original_height": 1080
+            },
+            {
+                "id": "VC-T5DioJS",
+                "type": "rectanglelabels",
+                "value": {
+                    "x": 45.61016013252347,
+                    "y": 35.81943081452405,
+                    "width": 5.687465488680287,
+                    "height": 14.22963689892051,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "origin": "manual",
+                "to_name": "image",
+                "from_name": "rectlabels",
+                "image_rotation": 0,
+                "original_width": 1920,
+                "original_height": 1080
+            },
+            {
+                "id": "5fC0B71lQy",
+                "type": "rectanglelabels",
+                "value": {
+                    "x": 94.86471562672553,
+                    "y": 2.9717186299759026,
+                    "width": 1.4356709000552177,
+                    "height": 4.290302959818012,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "origin": "manual",
+                "to_name": "image",
+                "from_name": "rectlabels",
+                "image_rotation": 0,
+                "original_width": 1920,
+                "original_height": 1080
+            }
+        ]
+    ]
+}

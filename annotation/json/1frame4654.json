@@ -1,0 +1,28 @@
+{
+    "filename": "1frame4654",
+    "file": "1frame4654.jpg",
+    "annotations": [
+        [
+            {
+                "id": "qU6Vs8VXkn",
+                "type": "rectanglelabels",
+                "value": {
+                    "x": 97.35152672737667,
+                    "y": 3.304443795574572,
+                    "width": 1.0707209276036582,
+                    "height": 3.570911825722554,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "origin": "manual",
+                "to_name": "image",
+                "from_name": "rectlabels",
+                "image_rotation": 0,
+                "original_width": 1920,
+                "original_height": 1080
+            }
+        ]
+    ]
+}

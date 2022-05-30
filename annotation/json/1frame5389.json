@@ -1,0 +1,48 @@
+{
+    "filename": "1frame5389",
+    "file": "1frame5389.jpg",
+    "annotations": [
+        [
+            {
+                "id": "tYMc_Bfnds",
+                "type": "rectanglelabels",
+                "value": {
+                    "x": 23.246824958586416,
+                    "y": 12.168792934249264,
+                    "width": 3.3130866924351188,
+                    "height": 10.500490677134446,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "origin": "manual",
+                "to_name": "image",
+                "from_name": "rectlabels",
+                "image_rotation": 0,
+                "original_width": 1920,
+                "original_height": 1080
+            },
+            {
+                "id": "A7gVJ9-zbz",
+                "type": "rectanglelabels",
+                "value": {
+                    "x": 19.657647708448373,
+                    "y": 48.57703631010795,
+                    "width": 4.583103257868581,
+                    "height": 14.425907752698727,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "origin": "manual",
+                "to_name": "image",
+                "from_name": "rectlabels",
+                "image_rotation": 0,
+                "original_width": 1920,
+                "original_height": 1080
+            }
+        ]
+    ]
+}

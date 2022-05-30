@@ -2,7 +2,7 @@
 import json
   
 # Opening JSON file
-f = open('./annotation/annotation.json')
+f = open('./annotation/annotations.json')
 data = json.load(f)
 
 for asset in data:
@@ -15,6 +15,6 @@ for asset in data:
 
     json_object = json.dumps(obj, indent=4)
  
-    file = open(f"./annotation/{obj['filename']}.json", 'w')
+    file = open(f"./annotation/json/{obj['filename']}.json", 'w')
     with file as f:
         f.write(json_object)

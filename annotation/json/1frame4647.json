@@ -1,0 +1,28 @@
+{
+    "filename": "1frame4647",
+    "file": "1frame4647.jpg",
+    "annotations": [
+        [
+            {
+                "id": "AHTOo2Eg5g",
+                "type": "rectanglelabels",
+                "value": {
+                    "x": 98.43727575718763,
+                    "y": 4.514682577290501,
+                    "width": 0.967680561792915,
+                    "height": 3.9711593571359454,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "origin": "manual",
+                "to_name": "image",
+                "from_name": "rectlabels",
+                "image_rotation": 0,
+                "original_width": 1920,
+                "original_height": 1080
+            }
+        ]
+    ]
+}

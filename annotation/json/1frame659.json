@@ -1,0 +1,145 @@
+{
+    "filename": "1frame659",
+    "file": "1frame659.jpg",
+    "annotations": [
+        [
+            {
+                "id": "3wLd9BH00V",
+                "type": "rectanglelabels",
+                "value": {
+                    "x": 72.04545223039854,
+                    "y": 21.26171666468504,
+                    "width": 3.529960183171106,
+                    "height": 11.900224517844817,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "origin": "manual",
+                "to_name": "image",
+                "from_name": "rectlabels",
+                "image_rotation": 0,
+                "original_width": 1920,
+                "original_height": 1080
+            },
+            {
+                "id": "pZ7RnqF8Vu",
+                "type": "rectanglelabels",
+                "value": {
+                    "x": 92.41412782788987,
+                    "y": 22.547646349177693,
+                    "width": 2.6781124237019482,
+                    "height": 9.033226336937162,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "origin": "manual",
+                "to_name": "image",
+                "from_name": "rectlabels",
+                "image_rotation": 0,
+                "original_width": 1920,
+                "original_height": 1080
+            },
+            {
+                "id": "Ryc_fEfS7G",
+                "type": "rectanglelabels",
+                "value": {
+                    "x": 90.83412304464964,
+                    "y": 4.1167601765683095,
+                    "width": 1.5264015832331956,
+                    "height": 5.359840248278058,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "origin": "manual",
+                "to_name": "image",
+                "from_name": "rectlabels",
+                "image_rotation": 0,
+                "original_width": 1920,
+                "original_height": 1080
+            },
+            {
+                "id": "mSkkAzpD_c",
+                "type": "rectanglelabels",
+                "value": {
+                    "x": 83.84954511140361,
+                    "y": 1.0994994805709872,
+                    "width": 1.6546149131433023,
+                    "height": 6.993872053476112,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "origin": "manual",
+                "to_name": "image",
+                "from_name": "rectlabels",
+                "image_rotation": 0,
+                "original_width": 1920,
+                "original_height": 1080
+            },
+            {
+                "id": "UVDtCut9SV",
+                "type": "polygonlabels",
+                "value": {
+                    "points": [
+                        [
+                            29.409660545858742,
+                            84.8872925421059
+                        ],
+                        [
+                            29.390125540981018,
+                            83.7069800817868
+                        ],
+                        [
+                            29.66361560926917,
+                            82.94324848981564
+                        ],
+                        [
+                            30.19106074096774,
+                            82.665527910917
+                        ],
+                        [
+                            30.767343384860624,
+                            82.96060602599678
+                        ],
+                        [
+                            31.040833453148775,
+                            83.68962254560564
+                        ],
+                        [
+                            31.050600955587637,
+                            84.8005048612001
+                        ],
+                        [
+                            30.816180897054938,
+                            85.37330355517848
+                        ],
+                        [
+                            30.454783306817028,
+                            85.78988442352639
+                        ],
+                        [
+                            29.839430653168687,
+                            85.5989515255336
+                        ]
+                    ],
+                    "polygonlabels": [
+                        "Bal"
+                    ]
+                },
+                "origin": "manual",
+                "to_name": "image",
+                "from_name": "polylabels",
+                "image_rotation": 0,
+                "original_width": 1920,
+                "original_height": 1080
+            }
+        ]
+    ]
+}

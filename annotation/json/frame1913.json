@@ -1,0 +1,101 @@
+{
+    "filename": "frame1913",
+    "file": "frame1913.jpg",
+    "annotations": [
+        [
+            {
+                "id": "GirAnR9B_B",
+                "type": "rectanglelabels",
+                "value": {
+                    "x": 91.66206515737161,
+                    "y": 4.023552502453385,
+                    "width": 1.8221976808393152,
+                    "height": 6.673209028459272,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "origin": "manual",
+                "to_name": "image",
+                "from_name": "rectlabels",
+                "image_rotation": 0,
+                "original_width": 1920,
+                "original_height": 1080
+            },
+            {
+                "id": "iqFSx-uVHo",
+                "type": "rectanglelabels",
+                "value": {
+                    "x": 5.633325855880729,
+                    "y": 0,
+                    "width": 1.4898105328547764,
+                    "height": 4.121687929342492,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "origin": "manual",
+                "to_name": "image",
+                "from_name": "rectlabels",
+                "image_rotation": 0,
+                "original_width": 1920,
+                "original_height": 1080
+            },
+            {
+                "id": "50pPUCX3u7",
+                "type": "polygonlabels",
+                "value": {
+                    "points": [
+                        [
+                            10.037135369819262,
+                            63.13858244893232
+                        ],
+                        [
+                            9.964256696493365,
+                            62.47104416967328
+                        ],
+                        [
+                            10.081983784173662,
+                            61.79354263251485
+                        ],
+                        [
+                            10.356680322094354,
+                            61.42490209023746
+                        ],
+                        [
+                            10.788346310255443,
+                            61.49464489553319
+                        ],
+                        [
+                            11.119103366119136,
+                            62.27177901168551
+                        ],
+                        [
+                            11.085467055353334,
+                            63.208325254228036
+                        ],
+                        [
+                            10.693043429752345,
+                            63.736377922895656
+                        ],
+                        [
+                            10.384710581065853,
+                            63.67659837549932
+                        ]
+                    ],
+                    "polygonlabels": [
+                        "Bal"
+                    ]
+                },
+                "origin": "manual",
+                "to_name": "image",
+                "from_name": "polylabels",
+                "image_rotation": 0,
+                "original_width": 1920,
+                "original_height": 1080
+            }
+        ]
+    ]
+}

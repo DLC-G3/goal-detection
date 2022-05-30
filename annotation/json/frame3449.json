@@ -1,0 +1,277 @@
+{
+    "filename": "frame3449",
+    "file": "frame3449.jpg",
+    "annotations": [
+        [
+            {
+                "id": "9Z_llBfPNe",
+                "type": "rectanglelabels",
+                "value": {
+                    "x": 0,
+                    "y": 18.055024855650256,
+                    "width": 0.9081226400894369,
+                    "height": 6.684835996067885,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "origin": "manual",
+                "to_name": "image",
+                "from_name": "rectlabels",
+                "image_rotation": 0,
+                "original_width": 1920,
+                "original_height": 1080
+            },
+            {
+                "id": "OMGgyejf1l",
+                "type": "rectanglelabels",
+                "value": {
+                    "x": 4.661565433649398,
+                    "y": 9.193018591257443,
+                    "width": 1.423719680315847,
+                    "height": 8.371376601786535,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "origin": "manual",
+                "to_name": "image",
+                "from_name": "rectlabels",
+                "image_rotation": 0,
+                "original_width": 1920,
+                "original_height": 1080
+            },
+            {
+                "id": "HCKF0SVtOQ",
+                "type": "rectanglelabels",
+                "value": {
+                    "x": 19.390320457519497,
+                    "y": 13.194225721784772,
+                    "width": 2.407316174681394,
+                    "height": 10.901574803149606,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "origin": "manual",
+                "to_name": "image",
+                "from_name": "rectlabels",
+                "image_rotation": 0,
+                "original_width": 1920,
+                "original_height": 1080
+            },
+            {
+                "id": "_jiSKAxCTk",
+                "type": "rectanglelabels",
+                "value": {
+                    "x": 9.350140954591941,
+                    "y": 0.5303643724696357,
+                    "width": 1.8848628419152669,
+                    "height": 7.783400809716599,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "origin": "manual",
+                "to_name": "image",
+                "from_name": "rectlabels",
+                "image_rotation": 0,
+                "original_width": 1920,
+                "original_height": 1080
+            },
+            {
+                "id": "igAeBQLgTC",
+                "type": "rectanglelabels",
+                "value": {
+                    "x": 31.947989263508514,
+                    "y": 2.9867217088279956,
+                    "width": 2.417550688390187,
+                    "height": 11.565769726607353,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "origin": "manual",
+                "to_name": "image",
+                "from_name": "rectlabels",
+                "image_rotation": 0,
+                "original_width": 1920,
+                "original_height": 1080
+            },
+            {
+                "id": "F76gQMDzT3",
+                "type": "rectanglelabels",
+                "value": {
+                    "x": 36.66880733027028,
+                    "y": 0.12742555552819804,
+                    "width": 3.747128663934366,
+                    "height": 6.940714614892529,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "origin": "manual",
+                "to_name": "image",
+                "from_name": "rectlabels",
+                "image_rotation": 0,
+                "original_width": 1920,
+                "original_height": 1080
+            },
+            {
+                "id": "pndmyFBK38",
+                "type": "rectanglelabels",
+                "value": {
+                    "x": 42.26195899772209,
+                    "y": 14.052631578947354,
+                    "width": 3.399140563390848,
+                    "height": 13.006747638326575,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "origin": "manual",
+                "to_name": "image",
+                "from_name": "rectlabels",
+                "image_rotation": 0,
+                "original_width": 1920,
+                "original_height": 1080
+            },
+            {
+                "id": "r2frSoxVaT",
+                "type": "rectanglelabels",
+                "value": {
+                    "x": 54.561561917228765,
+                    "y": 7.575972803098535,
+                    "width": 3.662631975222966,
+                    "height": 11.634354097538287,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "origin": "manual",
+                "to_name": "image",
+                "from_name": "rectlabels",
+                "image_rotation": 0,
+                "original_width": 1920,
+                "original_height": 1080
+            },
+            {
+                "id": "_TxyEbZUXB",
+                "type": "rectanglelabels",
+                "value": {
+                    "x": 55.5356871678053,
+                    "y": 4.122132253711192,
+                    "width": 4.2471526195899685,
+                    "height": 7.703028237157871,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "origin": "manual",
+                "to_name": "image",
+                "from_name": "rectlabels",
+                "image_rotation": 0,
+                "original_width": 1920,
+                "original_height": 1080
+            },
+            {
+                "id": "oO6qkb4e2S",
+                "type": "rectanglelabels",
+                "value": {
+                    "x": 47.68471407241152,
+                    "y": 54.59184682560443,
+                    "width": 7.378691846479916,
+                    "height": 17.660856071649622,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "origin": "manual",
+                "to_name": "image",
+                "from_name": "rectlabels",
+                "image_rotation": 0,
+                "original_width": 1920,
+                "original_height": 1080
+            },
+            {
+                "id": "HjfUNTd8Go",
+                "type": "rectanglelabels",
+                "value": {
+                    "x": 69.02292766326494,
+                    "y": 6.068025283566407,
+                    "width": 2.7645114475096633,
+                    "height": 11.948761379737997,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "origin": "manual",
+                "to_name": "image",
+                "from_name": "rectlabels",
+                "image_rotation": 0,
+                "original_width": 1920,
+                "original_height": 1080
+            },
+            {
+                "id": "VvAUFtPEZ_",
+                "type": "polygonlabels",
+                "value": {
+                    "points": [
+                        [
+                            68.14119651572318,
+                            15.371607349074155
+                        ],
+                        [
+                            68.3627713090401,
+                            14.977791996107626
+                        ],
+                        [
+                            68.73944851510385,
+                            14.993544323799501
+                        ],
+                        [
+                            69.0053383396209,
+                            15.426741212062678
+                        ],
+                        [
+                            69.09185986244353,
+                            15.94429663775282
+                        ],
+                        [
+                            68.9610233688681,
+                            16.371898059182342
+                        ],
+                        [
+                            68.60207083637681,
+                            16.537304135500943
+                        ],
+                        [
+                            68.24312084267196,
+                            16.127732540343096
+                        ]
+                    ],
+                    "polygonlabels": [
+                        "Bal"
+                    ]
+                },
+                "origin": "manual",
+                "to_name": "image",
+                "from_name": "polylabels",
+                "image_rotation": 0,
+                "original_width": 1920,
+                "original_height": 1080
+            }
+        ]
+    ]
+}

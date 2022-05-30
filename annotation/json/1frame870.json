@@ -1,0 +1,81 @@
+{
+    "filename": "1frame870",
+    "file": "1frame870.jpg",
+    "annotations": [
+        [
+            {
+                "id": "OhUqeuieLE",
+                "type": "rectanglelabels",
+                "value": {
+                    "x": 48.20456392103832,
+                    "y": 7.427266618518695,
+                    "width": 2.3030797370671285,
+                    "height": 12.004158088224326,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "origin": "manual",
+                "to_name": "image",
+                "from_name": "rectlabels",
+                "image_rotation": 0,
+                "original_width": 1920,
+                "original_height": 1080
+            },
+            {
+                "id": "iztPSBCNMp",
+                "type": "polygonlabels",
+                "value": {
+                    "points": [
+                        [
+                            60.16425826476123,
+                            13.09825337737941
+                        ],
+                        [
+                            60.18279066738702,
+                            12.530100654191125
+                        ],
+                        [
+                            60.28471888182882,
+                            12.241907243878233
+                        ],
+                        [
+                            60.53490631727693,
+                            12.077225295128006
+                        ],
+                        [
+                            60.78509375272502,
+                            12.110161684878053
+                        ],
+                        [
+                            60.99821638292154,
+                            12.538334751628637
+                        ],
+                        [
+                            60.98895018160865,
+                            13.057082890191849
+                        ],
+                        [
+                            60.743395846816995,
+                            13.518192346692482
+                        ],
+                        [
+                            60.40054639824001,
+                            13.44408546975488
+                        ]
+                    ],
+                    "polygonlabels": [
+                        "Bal"
+                    ]
+                },
+                "origin": "manual",
+                "to_name": "image",
+                "from_name": "polylabels",
+                "image_rotation": 0,
+                "original_width": 1920,
+                "original_height": 1080
+            }
+        ]
+    ]
+}

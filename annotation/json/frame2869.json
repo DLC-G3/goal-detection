@@ -1,0 +1,248 @@
+{
+    "filename": "frame2869",
+    "file": "frame2869.jpg",
+    "annotations": [
+        [
+            {
+                "id": "u9Qh0Z_SE1",
+                "type": "rectanglelabels",
+                "value": {
+                    "x": 17.448923246824954,
+                    "y": 28.066732090284592,
+                    "width": 3.147432357813363,
+                    "height": 14.720314033366044,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "origin": "manual",
+                "to_name": "image",
+                "from_name": "rectlabels",
+                "image_rotation": 0,
+                "original_width": 1920,
+                "original_height": 1080
+            },
+            {
+                "id": "lnYNvQj_Ji",
+                "type": "rectanglelabels",
+                "value": {
+                    "x": 34.56653782440641,
+                    "y": 24.63199214916585,
+                    "width": 4.030922142462726,
+                    "height": 16.584887144259078,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "origin": "manual",
+                "to_name": "image",
+                "from_name": "rectlabels",
+                "image_rotation": 0,
+                "original_width": 1920,
+                "original_height": 1080
+            },
+            {
+                "id": "As8YDHbCD7",
+                "type": "rectanglelabels",
+                "value": {
+                    "x": 35.94699061292103,
+                    "y": 0.9813542688910697,
+                    "width": 2.484815019326339,
+                    "height": 10.893032384690873,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "origin": "manual",
+                "to_name": "image",
+                "from_name": "rectlabels",
+                "image_rotation": 0,
+                "original_width": 1920,
+                "original_height": 1080
+            },
+            {
+                "id": "hhOOpmruN0",
+                "type": "rectanglelabels",
+                "value": {
+                    "x": 34.12479293208172,
+                    "y": 0.19627085377821393,
+                    "width": 2.374378796245168,
+                    "height": 10.206084396467125,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "origin": "manual",
+                "to_name": "image",
+                "from_name": "rectlabels",
+                "image_rotation": 0,
+                "original_width": 1920,
+                "original_height": 1080
+            },
+            {
+                "id": "t4Cmh2VOoV",
+                "type": "rectanglelabels",
+                "value": {
+                    "x": 43.62240824381745,
+                    "y": 20.55460592980501,
+                    "width": 3.9656643742783975,
+                    "height": 15.344812204478547,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "origin": "manual",
+                "to_name": "image",
+                "from_name": "rectlabels",
+                "image_rotation": 0,
+                "original_width": 1920,
+                "original_height": 1080
+            },
+            {
+                "id": "_ymhlr7wo4",
+                "type": "rectanglelabels",
+                "value": {
+                    "x": 62.948747283022314,
+                    "y": 17.164473000908586,
+                    "width": 3.062095276341551,
+                    "height": 12.846819520028552,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "origin": "manual",
+                "to_name": "image",
+                "from_name": "rectlabels",
+                "image_rotation": 0,
+                "original_width": 1920,
+                "original_height": 1080
+            },
+            {
+                "id": "pKT7CSICAq",
+                "type": "rectanglelabels",
+                "value": {
+                    "x": 72.53661937779667,
+                    "y": 15.023336414237162,
+                    "width": 3.6142763917474037,
+                    "height": 12.668391471139264,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "origin": "manual",
+                "to_name": "image",
+                "from_name": "rectlabels",
+                "image_rotation": 0,
+                "original_width": 1920,
+                "original_height": 1080
+            },
+            {
+                "id": "naxUjFQzBv",
+                "type": "rectanglelabels",
+                "value": {
+                    "x": 81.82330177325863,
+                    "y": 2.185733754392359,
+                    "width": 2.3593193112795414,
+                    "height": 7.2171191198323115,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "origin": "manual",
+                "to_name": "image",
+                "from_name": "rectlabels",
+                "image_rotation": 0,
+                "original_width": 1920,
+                "original_height": 1080
+            },
+            {
+                "id": "JwxtkcNeu_",
+                "type": "rectanglelabels",
+                "value": {
+                    "x": 58.73206858253822,
+                    "y": 37.1602217521487,
+                    "width": 5.185773059784489,
+                    "height": 17.400421296641053,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "origin": "manual",
+                "to_name": "image",
+                "from_name": "rectlabels",
+                "image_rotation": 0,
+                "original_width": 1920,
+                "original_height": 1080
+            },
+            {
+                "id": "YcUJTtk5VK",
+                "type": "rectanglelabels",
+                "value": {
+                    "x": 72.42250946036927,
+                    "y": 45.27058761075258,
+                    "width": 5.766579642480369,
+                    "height": 16.22073171720776,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "origin": "manual",
+                "to_name": "image",
+                "from_name": "rectlabels",
+                "image_rotation": 0,
+                "original_width": 1920,
+                "original_height": 1080
+            },
+            {
+                "id": "YJV-Xyq6AG",
+                "type": "rectanglelabels",
+                "value": {
+                    "x": 46.11238847739377,
+                    "y": 60.34055781889064,
+                    "width": 5.355489269013806,
+                    "height": 17.092093338380074,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "origin": "manual",
+                "to_name": "image",
+                "from_name": "rectlabels",
+                "image_rotation": 0,
+                "original_width": 1920,
+                "original_height": 1080
+            },
+            {
+                "id": "fJcoMywOlZ",
+                "type": "rectanglelabels",
+                "value": {
+                    "x": 97.5119826010114,
+                    "y": 6.328611809884338,
+                    "width": 1.3837832033638726,
+                    "height": 5.107786464473674,
+                    "rotation": 0,
+                    "rectanglelabels": [
+                        "Speler"
+                    ]
+                },
+                "origin": "manual",
+                "to_name": "image",
+                "from_name": "rectlabels",
+                "image_rotation": 0,
+                "original_width": 1920,
+                "original_height": 1080
+            }
+        ]
+    ]
+}
