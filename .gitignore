@@ -2,3 +2,7 @@ images/*
 annotations/json/*
 annotations/mat/*
 source/*
+SourceFiles/*.mp4
+SourceFiles/Images/*.png
+SourceFiles/Images/cropped/*.png
+SourceFiles/Images/goals/*.png
