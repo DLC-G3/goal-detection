@@ -1,5 +1,3 @@
-SourceFiles/*
-SourceFiles/Images/*
-DestinationFiles/vott-json-export
-DestinationFiles/vott-csv-export
 images/*
+annotations/json/*
+annotations/mat/*
