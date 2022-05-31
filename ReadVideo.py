@@ -1,5 +1,7 @@
 import cv2
-import random 
+import random
+import pathlib 
+import os
 
 
 def get_all_frames():
@@ -34,4 +36,18 @@ def get_random_frames(start_video=96,interval=24,random_offset=6):
     print('Read a new frame: ', success)
     count += 1
 
-get_random_frames()
+def get_cropped_images(cam=6,cropped_under_line=True):
+  vector = [{4:{"x":220,"y":680,"w":1700,"h":1080},6:{"x":380,"y":632,"w":1600,"h":1080}},{4:{"x":380,"y":908,"w":1600,"h":1080},6:{"x":420,"y":908,"w":1500,"h":1080}}][cropped_under_line][cam]
+  temp_files = os.listdir("./SourceFiles/Images")
+  files = []
+  for file in temp_files:
+    if file[-4:] == ".jpg":
+      files.append(file)
+      image = cv2.imread(f"./SourceFiles/Images/{file}")
+      cropped_image = image[vector["y"]:vector["h"],vector["x"]:vector["w"]]
+      # cv2.imshow("Cropped", cropped_image)
+      # cv2.waitKey(0)
+      cv2.imwrite(f"./SourceFiles/Images/cropped/{file}", cropped_image)     # save frame as JPEG file
+  #image = cv2.imread(r"C:\Users\HP\OneDrive\Desktop\<image>.png")
+
+get_cropped_images()
