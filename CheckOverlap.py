@@ -9,7 +9,19 @@ data = json.load(f)
 bal = data['bal']
 doel = data['doel']
 
-poly_bal = Polygon(bal)
+x = bal['x']
+y = float(bal['y'])
+width = float(bal['width'])
+height = float(bal['height'])
+
+b = [
+    [x, y], 
+    [x + width, y], 
+    [x, y + height], 
+    [x + width, y + height]
+]
+print(b)
+poly_bal = Polygon(b)
 poly_doel = Polygon(doel)
 
 print(poly_bal.intersects(poly_doel))
