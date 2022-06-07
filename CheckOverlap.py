@@ -20,6 +20,7 @@ b = [
     [x, y + height], 
     [x + width, y + height]
 ]
+
 print(b)
 poly_bal = Polygon(b)
 poly_doel = Polygon(doel)
